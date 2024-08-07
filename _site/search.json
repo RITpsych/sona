@@ -495,5 +495,95 @@
     "crumbs": [
       "Schedule"
     ]
+  },
+  {
+    "objectID": "previous-years.html",
+    "href": "previous-years.html",
+    "title": "Previous Years",
+    "section": "",
+    "text": "This course has been taught for a number of years, but this instructor has only started teaching it in Fall 2023. Below are previous iterations of the course in case you would like to check out how it has progressed!",
+    "crumbs": [
+      "Previous Years"
+    ]
+  },
+  {
+    "objectID": "previous-years.html#overview",
+    "href": "previous-years.html#overview",
+    "title": "Previous Years",
+    "section": "",
+    "text": "This course has been taught for a number of years, but this instructor has only started teaching it in Fall 2023. Below are previous iterations of the course in case you would like to check out how it has progressed!",
+    "crumbs": [
+      "Previous Years"
+    ]
+  },
+  {
+    "objectID": "previous-years.html#fall-2023",
+    "href": "previous-years.html#fall-2023",
+    "title": "Previous Years",
+    "section": "Fall 2023",
+    "text": "Fall 2023\nWebsite",
+    "crumbs": [
+      "Previous Years"
+    ]
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Slides for the course will be posted here prior to the lecture in which they occur. I will do my best to keep on top of them and I would like to have them be in both a PDF and HTML format so that it is easy to access for everyone.\n\n\n\nWeek\nDate\nTopic\nSlides\n\n\n\n\n1\n09/27\nIntroduction and overview\nLSR Ch 1 & 3\n\n\n-\n09/29\nResearch methods\nLSR CH 2 & 4, Rothman et al. (2013)1\n\n\n-\n09/30\nLab: Introduction to R\n\n\n\n2\n10/04\nLatent variables and psychometrics\nPodcast: Quantitude, S2E21 – Yes, Virginia… There ARE Latent Variables (Make sure you scroll down to the correct episode) CC available here., Bringmann et al., 2022,\n\n\n-\n10/06\nDescribing data\nLSR Ch 5 & 6\n\n\n-\n10/07\nLab: R basics and descriptives\n\n\n\n3\n10/11\nDescribing data\nOzer & Funder (2019)\n\n\n-\n10/13\nProbability\nLSR Intro to Part IV and Ch 9.1-9.3, Wetzels et al. (2011)\n\n\n-\n10/14\nLab: Functional programming\n\n\n\n4\n10/18\nProbability\nLSR Ch 9.4\n\n\n-\n10/20\nProbability\nLSR Ch 9.5-9.6\n\n\n-\n10/21\nLab: Probability distributions\n\n\n\n5\n10/25\nSampling\nLSR Ch 10\n\n\n-\n10/27\nHypothesis testing\nLSR Ch 11\n\n\n-\n10/28\nLab: Data wrangling\n\n\n\n6\n11/01\nHypothesis testing\nSainani (2012)\n\n\n-\n11/03\nHypothesis testing\n\n\n\n-\n11/04\nLab: Graphing with ggplot2\n\n\n\n7\n11/08\nCritiques of hypothesis testing\nSimmons et al. (2011) Cumming (2014)\n\n\n-\n11/10\nOpen Science and Wrap-up\nFive Thirty Eight\n\n\n-\n11/11\nLab: No Lab\n\n\n\n8\n11/15\nOne-sample tests\nLSR Ch 13.1-13.2\n\n\n-\n11/17\nComparing two means (paired)\nLSR Ch 13.3-13.11\n\n\n-\n11/18\nLab: One- and paired-samples t-tests\n\n\n\n9\n11/22\nSomething different: RMarkdown\n\n\n\n-\n11/24\nThanksgiving\n\n\n\n-\n11/25\nLab: No Lab\n\n\n\n10\n11/29\nComparing two means (independent)\n\n\n\n-\n12/01\nEffect sizes and assumptions\n\n\n\n-\n12/02\nLab: Independent samples t-tests\n\n\n\nFinals\n12/05\n\n\n\n\n-\n12/07\n\n\n\n\n\nFinal: Oral exam will take place the week of December 5.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "lectures.html#quizzes",
+    "href": "lectures.html#quizzes",
+    "title": "Lectures",
+    "section": "Quizzes",
+    "text": "Quizzes\nQuizzes are intended to assess your understanding of the theoretical principles underlying statistics. There will be a quiz every Tuesday, with the exception of the first week, when there will be no quiz, and the final week when the quiz will be on Thursday.\nQuizzes may be resubmitted with corrections and receive full credit. To resubmit a quiz, write your corrections on the back of the quiz; for each question that was answered incorrectly, identify the correct answer, and explain why this is the correct answer. Only if the explanation sufficiently conveys an understanding of the theoretical principles will credit be given. There are no limits to the number of times a quiz may be resubmitted.\nIf you are absent the day of a quiz, you can take a make-up quiz after the next lecture you attend.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "lectures.html#homework-assignments",
+    "href": "lectures.html#homework-assignments",
+    "title": "Lectures",
+    "section": "Homework assignments",
+    "text": "Homework assignments\nHomework assignments are intended to gauge your ability to apply the topics covered in class to the practice of data analysis. Homework assignments are to be done using R and RMarkdown; completed assignments should be submitted through Canvas, and students must attach both the .Rmd file and the compiled HTML file.\nHomework assignments are due at the time the first lab starts on the day the assignment is listed. Homework assignments may be resubmitted with corrections and receive full credit. Please note, however, that corrections can only be made to problems that were answered at initial submission. There is no limit to the number of times a homework assignment may be resubmitted.\nLate assignments will receive 50% of the points earned. For example, if you correctly answer questions totalling 28 points, the assignment will receive 14 points. If you resubmit this assignment with corrected answers (a total of 30 points), the assignment will receive 15 points. Late assignments will be accepted only within 7 days of the original deadline.\nYou may discuss homework assignments with your classmates; however, it is important that you complete each assignment on your own and do not simply copy someone else’s code. If I believe one student has copied another’s work, both students will receive a 0 on the homework assignment and will not be allowed to resubmit the assignment for points.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "lectures.html#journal-entries",
+    "href": "lectures.html#journal-entries",
+    "title": "Lectures",
+    "section": "Journal entries",
+    "text": "Journal entries\nEach week you’ll complete a short journal entry on Canvas. To earn full points, you’ll have to write at least 200 words about anything at all. This can include content related to the course, such as how well you feel you understand the material or how you see the material come up in other work. This can also include anything related to your personal life or mental health that you would like for me to know, such as whether you are struggling to balance classes and research, having trouble creating a workspace at home, or whether you can balance time spent on campus and off. This can also be completely random things, like a news article you can’t stop thinking about, or musings on the mist-downpour continuum of Oregon weather. The content of what you write has no impact on your grade. In addition, what you write will be kept confidential.\nYou may skip 2 journal entries with no penalty.\nThe purpose of this assignment is to help facilitate communication between you and me. I have used this assignment since Spring 2020 and found it an excellent way to build relationships with students. Plus, I found that many students were more comfortable discussing questions and concerns in their journal assignments rather than through email.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "lectures.html#oral-exam",
+    "href": "lectures.html#oral-exam",
+    "title": "Lectures",
+    "section": "Oral exam",
+    "text": "Oral exam\nThe oral exam will take place during finals week. About two weeks prior, you will be asked to schedule a time to complete the exam. The exam will take roughly 15 minutes. You will be asked to explain basic and elemental concepts, as if you were teaching an advanced undergraduate or new graduate student.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "lectures.html#footnotes",
+    "href": "lectures.html#footnotes",
+    "title": "Lectures",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThere are several great commentaries on this article that I would encourage you to read. They are: - Richiardi et al. (2013). Representativeness is usually not necessary and often should be avoided. - Nohr et al. (2013). Epidemiologists have debated representativeness for more than 40 years—has the time come to move on? - Elwood (2013). On representativeness - Ebrahim et al. (2013). Should we always deliberately be non-representative?↩︎",
+    "crumbs": [
+      "Lectures"
+    ]
   }
 ]

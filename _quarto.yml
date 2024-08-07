@@ -24,21 +24,19 @@ website:
         text: "GitHub"
         
 
-    style: "docked"
+    style: "floating"
     search: true
     collapse-level: 1
     contents:
       - href: index.qmd
         text: Welcome
-      - schedule.qmd
-      - section: quarto-workflows/index.qmd
-        contents: 
-          - quarto-workflows/browser.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
+      - syllabus.qmd
+      - lectures.qmd
       - learning-more.qmd
       - href: transition-from-rmarkdown.qmd
         text: Transition from Rmd
+      - href: previous-years.qmd
+        text: Previous Years
 
 
 format:
