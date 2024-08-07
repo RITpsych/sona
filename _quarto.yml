@@ -10,7 +10,7 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Dustin Haraden, 2024"
-    
+  
   sidebar:
     logo: "images/hex-PSYC_640.png"
     pinned: true
@@ -32,9 +32,7 @@ website:
         text: Welcome
       - syllabus.qmd
       - lectures.qmd
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
+      - homework.qmd
       - href: previous-years.qmd
         text: Previous Years
 

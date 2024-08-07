@@ -1,12 +1,11 @@
 ---
-title: Lectures
+title: Homework Assignments
 execute:
   freeze: true
 ---
 
-# Schedule
+Homework assignments will be posted here. You will be able to access the assignment as well as any data or additional information that may be necessary. Submit your homework assignments via myCourses by the due date and time. 
 
-Slides for the course will be posted here prior to the lecture in which they occur. I will do my best to keep on top of them and I would like to have them be in both a PDF and HTML format so that it is easy to access for everyone.
 
 | Week   | Date  | Topic        | Lecture Slides |
 |--------|-------|:-------------|:---------------|

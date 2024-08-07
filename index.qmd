@@ -5,12 +5,15 @@ author: "Dustin Haraden, PhD"
 ---
 # **THIS SITE IS CURRENTLY UNDER CONSTRUCTION AND SHOULD NOT BE USED**
 
-
 # Overview
 
 This course is the introduction to statistics for graduate students. The goal of the course is to provide a grounding in statistical concepts, methods and application to research. I aim to increase student's confidence in using these techniques and introducing them to R. Topics will range from including mathematical conceptualizations to practical application with various techniques ranging from descriptive statistics to ending with regression.
 
 The course will be broken up into two main sections. The first will be getting used to using R and the practicalities of performing a data analysis. The second section will then "pop the hood" of these tools with a deeper understanding of the how and why. 
+
+## Course Description
+
+This course reviews critical concepts and data analysis methods in descriptive and inferential statistics. Basic and advanced material will be presented on topics that include measurement, descriptive and inferential data analyses for single and multiple group designs, and computer applications. There will be an emphasis on Open Science practices, especially reproducibility. Course content will be taught through lectures, discussion, and applied data analysis exercises. Throughout the course, I will try to maintain an emphasis on both the basic theory behind the statistics and its practical application to data sets.
 
 ## Meeting time and location
 
