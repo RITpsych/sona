@@ -3,29 +3,26 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
-  repo-actions: [edit, issue]
+  title: "PSYC 640" 
+  site-url: "https://dharaden.github.io/psyc640/" 
+  repo-url: https://github.com/dharaden/psyc640 
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2024"
+    left: "&copy; CC-By Dustin Haraden, 2024"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/hex-PSYC_640.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://mycourses.rit.edu/d2l/home/1101433
+        text: "MyCourses Site" 
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        href: https://github.com/dharaden/psyc640
+        text: "GitHub"
+        
 
     style: "docked"
     search: true
@@ -33,7 +30,7 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - explore.qmd
+      - schedule.qmd
       - section: quarto-workflows/index.qmd
         contents: 
           - quarto-workflows/browser.md
