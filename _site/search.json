@@ -24,7 +24,7 @@
     "href": "syllabus.html#journal-entries",
     "title": "Syllabus",
     "section": "Journal Entries",
-    "text": "Journal Entries\nEach week you’ll complete a short journal entry on myCourses. To earn full points, you’ll have to write at least 200 words reflecting on just about anything at all. This can include content related to the course, such as how well you feel you understand the material or how you see the material come up in other work. This can also include anything related to your personal life or mental health that you would like for me to know, such as whether you are struggling to balance classes and research, having trouble creating a workspace at home, or whether you can balance time spent on campus and off. This can also be completely random things, like a news article you can’t stop thinking about, or a favorite TV show, movie or book that you just love (especially if it is LOTR or Cosmere related). The content of what you write has no impact on your grade. In addition, what you write will be kept confidential.\nYou may skip 4 journal entries with no penalty. This means that the total amount of journal entries you must submit is 11.\nThe purpose of this assignment is to help facilitate communication between you and me. I have found other instructors using this and I would like to be able to develop supportive relationships with students, so I decided to implement this. Other instructors reported that they found that many students were more comfortable discussing questions and concerns in their journal assignments rather than through email.",
+    "text": "Journal Entries\nEach week you’ll complete a short journal entry on myCourses. To earn full points, you’ll have to write at least 200 words reflecting on just about anything at all. This can include content related to the course, such as how well you feel you understand the material or how you see the material come up in other work. This can also include anything related to your personal life or mental health that you would like for me to know, such as whether you are struggling to balance classes and research, having trouble creating a workspace at home, or whether you can balance time spent on campus and off. This can also be completely random things, like a news article you can’t stop thinking about, or a favorite TV show, movie or book that you just love (especially if it is LOTR or Cosmere related). The content of what you write has no impact on your grade. In addition, what you write will be kept confidential.\nYou may skip up to 5 journal entries with no penalty. This means that the total amount of journal entries you must submit is at least 10.\nThe purpose of this assignment is to help facilitate communication between you and me. I have found other instructors using this and I would like to be able to develop supportive relationships with students, so I decided to implement this. Other instructors reported that they found that many students were more comfortable discussing questions and concerns in their journal assignments rather than through email.",
     "crumbs": [
       "Syllabus"
     ]
@@ -34,7 +34,7 @@
     "href": "syllabus.html#presentations",
     "title": "Syllabus",
     "section": "Presentations",
-    "text": "Presentations",
+    "text": "Presentations\nEach student will be complete 2 brief presentations throughout the semester. These will need to be completed within the corresponding topic, but can be done at any point throughout that time (i.e., there won’t be a single “presentation day” for everyone). The presentations will take place at the beginning of the class for the day.\nThe goal of the presentations is to have students get more practice with presenting to a group, as well as to provide more direct and useful information about the topics that we are discussing. Ultimately, a document will be compiled with all of the information that is presented in order for students to take with them moving forward.\nThe main focus of the presentations will be reflective of the structure of the course: (1) Practical and Using R; and (2) In-depth Stats. For topic 1, students will be asked to present on a package/library in R that they have found and walk through the usefulness of that tool. Then for topic 2, you will provide an overview of a specific statistical test/concept. More information will be available and Dustin will link it here, unless he has forgotten and then if you are reading this, that is kind of embarrassing.",
     "crumbs": [
       "Syllabus"
     ]
@@ -117,6 +117,16 @@
     "text": "Schedule\nSlides for the course will be posted here prior to the lecture in which they occur. I will do my best to keep on top of them and I would like to have them be in both a PDF and HTML format so that it is easy to access for everyone.\n\n\n\nWeek\nDate\nTopic\nLecture Slides\n\n\n\n\n1\n08/27\n\n\n\n\n-\n08/29\n\n\n\n\n2\n09/03\n\n\n\n\n-\n09/05\n\n\n\n\n3\n09/10\n\n\n\n\n-\n09/12\n\n\n\n\n4\n09/17\n\n\n\n\n-\n09/19\n\n\n\n\n5\n09/24\n\n\n\n\n-\n09/26\n\n\n\n\n6\n10/01\n\n\n\n\n-\n10/03\n\n\n\n\n7\n10/08\n\n\n\n\n-\n10/10\n\n\n\n\n8\n10/15\nNO CLASS\n\n\n\n-\n10/17\n\n\n\n\n9\n10/22\n\n\n\n\n-\n10/24\n\n\n\n\n10\n10/29\n\n\n\n\n-\n10/31\n\n\n\n\n11\n11/05\n\n\n\n\n-\n11/07\n\n\n\n\n12\n11/12\n\n\n\n\n-\n11/14\n\n\n\n\n13\n11/19\n\n\n\n\n-\n11/21\n\n\n\n\n14\n11/26\n\n\n\n\n-\n11/28\nNO CLASS\n\n\n\n15\n12/03\n\n\n\n\n-\n12/05\n\n\n\n\nFinals",
     "crumbs": [
       "Lectures"
+    ]
+  },
+  {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework Assignments",
+    "section": "",
+    "text": "Homework assignments will be posted here. You will be able to access the assignment as well as any data or additional information that may be necessary. Submit your homework assignments via myCourses by the due date and time.\n\n\n\nWeek\nDate\nTopic\nLecture Slides\n\n\n\n\n1\n08/27\n\n\n\n\n-\n08/29\n\n\n\n\n2\n09/03\n\n\n\n\n-\n09/05\n\n\n\n\n3\n09/10\n\n\n\n\n-\n09/12\n\n\n\n\n4\n09/17\n\n\n\n\n-\n09/19\n\n\n\n\n5\n09/24\n\n\n\n\n-\n09/26\n\n\n\n\n6\n10/01\n\n\n\n\n-\n10/03\n\n\n\n\n7\n10/08\n\n\n\n\n-\n10/10\n\n\n\n\n8\n10/15\nNO CLASS\n\n\n\n-\n10/17\n\n\n\n\n9\n10/22\n\n\n\n\n-\n10/24\n\n\n\n\n10\n10/29\n\n\n\n\n-\n10/31\n\n\n\n\n11\n11/05\n\n\n\n\n-\n11/07\n\n\n\n\n12\n11/12\n\n\n\n\n-\n11/14\n\n\n\n\n13\n11/19\n\n\n\n\n-\n11/21\n\n\n\n\n14\n11/26\n\n\n\n\n-\n11/28\nNO CLASS\n\n\n\n15\n12/03\n\n\n\n\n-\n12/05\n\n\n\n\nFinals",
+    "crumbs": [
+      "Homework Assignments"
     ]
   },
   {
