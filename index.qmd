@@ -3,13 +3,12 @@ title: "PSYC 640: Graduate Statistics"
 subtitle: "Department of Psychology, Rochester Institute of Technology"
 author: "Dustin Haraden, PhD"
 ---
-# **THIS SITE IS CURRENTLY UNDER CONSTRUCTION AND SHOULD NOT BE USED**
 
 # Overview
 
 This course is the introduction to statistics for graduate students. The goal of the course is to provide a grounding in statistical concepts, methods and application to research. I aim to increase student's confidence in using these techniques and introducing them to R. Topics will range from including mathematical conceptualizations to practical application with various techniques ranging from descriptive statistics to ending with regression.
 
-The course will be broken up into two main sections. The first will be getting used to using R and the practicalities of performing a data analysis. The second section will then "pop the hood" of these tools with a deeper understanding of the how and why. 
+The course will be broken up into two main sections. The first will be getting used to using R and the practicalities of performing a data analysis. The second section will then "pop the hood" of these tools with a deeper understanding of the how and why.
 
 ## Course Description
 
@@ -25,16 +24,26 @@ This course reviews critical concepts and data analysis methods in descriptive a
 
 -   Office: EAS 3378
 
--   Office Hours: TBD
+-   Office Hours: Tuesdays & Wednesdays 12:30 – 2:00pm or By Appointment
 
 # Materials
 
 ## Textbook
 
-We will primarily be referring to chapters in [*Learning Statistics with R*](https://learningstatisticswithr-bookdown.netlify.com/index.html) by Danielle Navarro. This textbook is available for free online. You may choose to purchase a paper copy if you wish, but it is not required.
+We will primarily be referring to chapters in the following textbooks:
+
+-   [*Learning Statistics with R*](https://learningstatisticswithr-bookdown.netlify.com/index.html) by Danielle Navarro.
+
+-    [*R for Data Science (2e)*](https://r4ds.hadley.nz/) (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)
+
+-   [*OpenIntro Statistics 4^th^ ed.*](https://www.openintro.org/book/os/) (Diez, Barr, & Cetinkaya-Rundel, 2022)
+
+These textbook is available for free online and able to be downloaded. You may choose to purchase a paper copy if you wish, but it is not required.
 
 ## R and RStudio
 
 Students must have the latest version of R as well as the RStudio GUI. Both applications are free and can be found [here](https://posit.co/download/rstudio-desktop/#download).
 
-#### Special thanks to Sara Weston and their courses (PSY 611 & PSY 612) which greatly influenced the materials of this course.
+# Acknowledgements
+
+Special thanks to Sara Weston and their courses (PSY 611 & PSY 612) which greatly influenced the materials of this course, and their workshop at UIUC that got me hooked on R.
