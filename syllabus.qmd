@@ -8,7 +8,15 @@ You can also download a copy of the syllabus here: [Download Syllabus](docs/Hara
 
 # Weekly Schedule
 
-LSR readings can be found in the free, online textbook, [*Learning Statistics with R*](https://learningstatisticswithr-bookdown.netlify.com/index.html) by Danielle Navarro. I will note that the formatting of the book online is wonky in a few places. If this bothers you, or you prefer to work offline, you can download a [PDF version](https://learningstatisticswithr.com/lsr-0.6.pdf) of the book.
+Readings will be taken from the following texts:
+
+-   [*Learning Statistics with R*](https://learningstatisticswithr.com/) by Danielle Navarro
+
+-   [*R for Data Science (2e)*](https://r4ds.hadley.nz/) (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)
+
+-   [*OpenIntro Statistics 4^th^ ed.*](https://www.openintro.org/book/os/) (Diez, Barr, & Cetinkaya-Rundel, 2022)
+
+All books are available online for free, but can also be purchased if you prefer a physical copy of the materials. Some also allow for a PDF download if you prefer that formatting or to work offline.
 
 +----------+----------+--------------+----------+-----------+----------+
 | Week     | Date     | Topic        | Readings | Presenter | Homework |
@@ -82,49 +90,25 @@ LSR readings can be found in the free, online textbook, [*Learning Statistics wi
 
 **Your final grade is comprised of these components:**
 
--   Homework Assignments: 35%
--   Journal Entries: 25%
--   Presentations: 20%
--   Oral exam: 20%
+-   Lab Assignments: 35%
+-   Journal Entries: 15%
+-   Presentations: 25%
+-   Oral exam: 25%
 
-<table>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p><strong>A</strong></p></td>
-<td style="text-align: center;"><p><strong>A-</strong></p></td>
-<td style="text-align: center;"><p><strong>B+</strong></p></td>
-<td style="text-align: center;"><p><strong>B</strong></p></td>
-<td style="text-align: center;"><p><strong>B-</strong></p></td>
-<td style="text-align: center;"><p><strong>C+</strong></p></td>
-<td style="text-align: center;"><p><strong>C</strong></p></td>
-<td style="text-align: center;"><p><strong>C-</strong></p></td>
-<td style="text-align: center;"><p><strong>D</strong></p></td>
-<td style="text-align: center;"><p><strong>F</strong></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p>93+</p></td>
-<td style="text-align: center;"><p>90-92</p></td>
-<td style="text-align: center;"><p>87-89</p></td>
-<td style="text-align: center;"><p>83-86</p></td>
-<td style="text-align: center;"><p>80-82</p></td>
-<td style="text-align: center;"><p>77-79</p></td>
-<td style="text-align: center;"><p>73-76</p></td>
-<td style="text-align: center;"><p>70-72</p></td>
-<td style="text-align: center;"><p>60-69</p></td>
-<td style="text-align: center;"><p>&lt; 60</p></td>
-</tr>
-</tbody>
-</table>
+|       |        |        |       |        |        |       |        |       |       |
+|:-----:|:------:|:------:|:-----:|:------:|:------:|:-----:|:------:|:-----:|:-----:|
+| **A** | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D** | **F** |
+|  93+  | 90-92  | 87-89  | 83-86 | 80-82  | 77-79  | 73-76 | 70-72  | 60-69 | \< 60 |
 
-## Homework Assignments
+## Lab Assignments
 
-Homework assignments are intended to gauge your ability to apply the topics covered in class to the practice of data analysis. Homework assignments are to be done using R and RMarkdown; completed assignments should be submitted through myCourses, and students must attach both the .Rmd file and the compiled HTML file.
+Lab assignments are intended to gauge your ability to apply the topics covered in class to the practice of data analysis. Lab assignments are to be done using R and RMarkdown; completed assignments should be submitted through myCourses, and students must attach both the .Rmd file and the compiled HTML file.
 
-Homework assignments are due at the beginning of class on the day the assignment is listed. Homework assignments may be resubmitted with corrections and receive full credit. Please note, however, that corrections can only be made to problems that were answered at initial submission. To be considered for resubmission, assignments will have to be corrected and returned through myCourses within a week of reveiving the initial grade. There is no limit to the number of times a homework assignment may be resubmitted as long as it is within the timeframe.
+Lab assignments are due at the beginning of class on the day the assignment is listed. Lab assignments may be resubmitted with corrections and receive full credit. Please note, however, that corrections can only be made to problems that were answered at initial submission. To be considered for re-submission, assignments will have to be corrected and returned through myCourses within a week of receiving the initial grade. There is no limit to the number of times a homework assignment may be resubmitted as long as it is within the time frame.
 
 Late assignments will be subject to the \[late policy\] with 25% being deducted for being late, and an additional 5% for each 24h period after the due date. For example, if you correctly answer questions totaling 28 points and turn it in 6 hours late, the assignment will receive 21 points. If you resubmit this assignment with corrected answers (a total of 30 points), the assignment will receive 22.5 points. [*Late assignments will be accepted only within 7 days of the original deadline.*]{.underline}
 
-You may discuss homework assignments with your classmates; however, it is important that you complete each assignment on your own and do not simply copy someone else's code. If I believe one student has copied another's work, both students will receive a 0 on the homework assignment and will not be allowed to resubmit the assignment for points.
+You may discuss assignments with your classmates; however, it is important that you complete each assignment on your own and do not simply copy someone else's code. If I believe one student has copied another's work, both students will receive a 0 on the homework assignment and will not be allowed to resubmit the assignment for points.
 
 ## Journal Entries
 
@@ -140,7 +124,7 @@ Each student will be complete 2 brief presentations throughout the semester. The
 
 The goal of the presentations is to have students get more practice with presenting to a group, as well as to provide more direct and useful information about the topics that we are discussing. Ultimately, a document will be compiled with all of the information that is presented in order for students to take with them moving forward.
 
-The main focus of the presentations will be reflective of the structure of the course: (1) Practical and Using R; and (2) In-depth Stats. For topic 1, students will be asked to present on a package/library in R that they have found and walk through the usefulness of that tool. Then for topic 2, you will provide an overview of a specific statistical test/concept. **More information will be available and Dustin will link it here, unless he has forgotten and then if you are reading this, that is kind of embarrassing.**
+The main focus of the presentations will be reflective of the structure of the course: (1) Practical and Using R; and (2) In-depth Stats. For topic 1, students will be asked to present on a package/library in R that they have found and walk through the usefulness of that tool. Then for topic 2, you will provide an overview of a specific statistical test/concept, this test being used in a paper and how it is written up. **More information will be available and Dustin will link it here, unless he has forgotten and then if you are reading this, that is kind of embarrassing.**
 
 ## Oral Exam
 
@@ -152,11 +136,21 @@ The oral exam will take place during finals week. About two weeks prior, you wil
 
 Thanks Gandalf. Super helpful. Unfortunately, we are not wizards and late penalties will be applied to work that is not on time. There will be an initial 25% deduction for the first day and an additional 5% deduction for each day thereafter. For example, if you turn in an assignment 3 days late, there will be a 35% deduction from the grade for that assignment.
 
-# Materials needed
+# Materials Needed
 
-We will be using R for all data wrangling, visualization, and analysis. You may not use another statistical program in this course. Students must have the latest version of R and it is strongly recommended that students also download the RStudio GUI, both can be found [here](https://posit.co/download/rstudio-desktop/#download). Both softwares are free.
+We will be using R for all data wrangling, visualization, and analysis. You may not use another statistical program in this course. Students must have the latest version of R and it is strongly recommended that students also download the RStudio GUI, both can be found [here](https://posit.co/download/rstudio-desktop/#download). Both types of software are free.
 
-All reading assignments will be posted online.
+The text for this class will be pulled from multiple sources. They include:
+
+-   [*Learning Statistics with R*](https://learningstatisticswithr.com/) by Danielle Navarro
+
+-   [*R for Data Science (2e)*](https://r4ds.hadley.nz/) (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)
+
+-   [*OpenIntro Statistics 4^th^ ed.*](https://www.openintro.org/book/os/) (Diez, Barr, & Cetinkaya-Rundel, 2022)
+
+All books are available online for free, but can also be purchased if you prefer a physical copy of the materials.
+
+Additional reading assignments will be posted online.
 
 # General Course Policies
 
