@@ -160,11 +160,21 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PSYC 640: Graduate Statistics",
+    "section": "",
+    "text": "This course is the introduction to statistics for graduate students. The goal of the course is to provide a grounding in statistical concepts, methods and application to research. I aim to increase student’s confidence in using these techniques and introducing them to R. Topics will range from including mathematical conceptualizations to practical application with various techniques ranging from descriptive statistics to ending with regression.\nThe course will be broken up into two main sections. The first will be getting used to using R and the practicalities of performing a data analysis. The second section will then “pop the hood” of these tools with a deeper understanding of the how and why.\n\n\nThis course reviews critical concepts and data analysis methods in descriptive and inferential statistics. Basic and advanced material will be presented on topics that include measurement, descriptive and inferential data analyses for single and multiple group designs, and computer applications. There will be an emphasis on Open Science practices, especially reproducibility. Course content will be taught through lectures, discussion, and applied data analysis exercises. Throughout the course, I will try to maintain an emphasis on both the basic theory behind the statistics and its practical application to data sets.\n\n\n\nLecture: Tuesdays & Thursdays, 11:00am - 12:15pm, Liberal Arts 3233\n\n\n\nDustin Haraden – dxhgsh@rit.edu\n\nOffice: EAS 3378\nOffice Hours: Tuesdays & Wednesdays 12:30 – 2:00pm or By Appointment",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
     "title": "PSYC 640: Graduate Statistics",
-    "section": "Course Description",
-    "text": "Course Description\nThis course reviews critical concepts and data analysis methods in descriptive and inferential statistics. Basic and advanced material will be presented on topics that include measurement, descriptive and inferential data analyses for single and multiple group designs, and computer applications. There will be an emphasis on Open Science practices, especially reproducibility. Course content will be taught through lectures, discussion, and applied data analysis exercises. Throughout the course, I will try to maintain an emphasis on both the basic theory behind the statistics and its practical application to data sets.",
+    "section": "",
+    "text": "This course reviews critical concepts and data analysis methods in descriptive and inferential statistics. Basic and advanced material will be presented on topics that include measurement, descriptive and inferential data analyses for single and multiple group designs, and computer applications. There will be an emphasis on Open Science practices, especially reproducibility. Course content will be taught through lectures, discussion, and applied data analysis exercises. Throughout the course, I will try to maintain an emphasis on both the basic theory behind the statistics and its practical application to data sets.",
     "crumbs": [
       "Welcome"
     ]
@@ -173,8 +183,8 @@
     "objectID": "index.html#meeting-time-and-location",
     "href": "index.html#meeting-time-and-location",
     "title": "PSYC 640: Graduate Statistics",
-    "section": "Meeting time and location",
-    "text": "Meeting time and location\nLecture: Tuesdays & Thursdays, 11:00am - 12:15pm, Liberal Arts 3233",
+    "section": "",
+    "text": "Lecture: Tuesdays & Thursdays, 11:00am - 12:15pm, Liberal Arts 3233",
     "crumbs": [
       "Welcome"
     ]
@@ -183,8 +193,8 @@
     "objectID": "index.html#instructor",
     "href": "index.html#instructor",
     "title": "PSYC 640: Graduate Statistics",
-    "section": "Instructor",
-    "text": "Instructor\nDustin Haraden – dxhgsh@rit.edu\n\nOffice: EAS 3378\nOffice Hours: TBD",
+    "section": "",
+    "text": "Dustin Haraden – dxhgsh@rit.edu\n\nOffice: EAS 3378\nOffice Hours: Tuesdays & Wednesdays 12:30 – 2:00pm or By Appointment",
     "crumbs": [
       "Welcome"
     ]
@@ -194,7 +204,7 @@
     "href": "index.html#textbook",
     "title": "PSYC 640: Graduate Statistics",
     "section": "Textbook",
-    "text": "Textbook\nWe will primarily be referring to chapters in Learning Statistics with R by Danielle Navarro. This textbook is available for free online. You may choose to purchase a paper copy if you wish, but it is not required.",
+    "text": "Textbook\nWe will primarily be referring to chapters in the following textbooks:\n\nLearning Statistics with R by Danielle Navarro.\nR for Data Science (2e) (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)\nOpenIntro Statistics 4th ed. (Diez, Barr, & Cetinkaya-Rundel, 2022)\n\nThese textbook is available for free online and able to be downloaded. You may choose to purchase a paper copy if you wish, but it is not required.",
     "crumbs": [
       "Welcome"
     ]
@@ -204,7 +214,7 @@
     "href": "index.html#r-and-rstudio",
     "title": "PSYC 640: Graduate Statistics",
     "section": "R and RStudio",
-    "text": "R and RStudio\nStudents must have the latest version of R as well as the RStudio GUI. Both applications are free and can be found here.\n\nSpecial thanks to Sara Weston and their courses (PSY 611 & PSY 612) which greatly influenced the materials of this course.",
+    "text": "R and RStudio\nStudents must have the latest version of R as well as the RStudio GUI. Both applications are free and can be found here.",
     "crumbs": [
       "Welcome"
     ]
