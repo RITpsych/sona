@@ -3,12 +3,12 @@ project:
   
 website: 
   page-navigation: true
-  title: "PSYC 640 2024" 
-  site-url: "https://dharaden.github.io/psyc640/" 
-  repo-url: https://github.com/dharaden/psyc640 
+  title: "RIT Psychology" 
+  site-url: "https://ritpsych.github.io/website/" 
+  repo-url: https://github.com/RITpsych/website
   
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with  and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Dustin Haraden, 2024"
   
   sidebar:
@@ -16,11 +16,8 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://mycourses.rit.edu/d2l/home/1101433
-        text: "MyCourses Site" 
       - icon: github
-        href: https://github.com/dharaden/psyc640
+        href: https://github.com/rit-psych/website
         text: "GitHub"
         
 
