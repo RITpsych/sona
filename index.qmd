@@ -1,49 +1,17 @@
 ---
-title: "PSYC 640: Graduate Statistics"
+title: "RIT Psych"
 subtitle: "Department of Psychology, Rochester Institute of Technology"
 author: "Dustin Haraden, PhD"
 ---
 
 # Overview
 
-This course is the introduction to statistics for graduate students. The goal of the course is to provide a grounding in statistical concepts, methods and application to research. I aim to increase student's confidence in using these techniques and introducing them to R. Topics will range from including mathematical conceptualizations to practical application with various techniques ranging from descriptive statistics to ending with regression.
+Here we can have some overview
 
-The course will be broken up into two main sections. The first will be getting used to using R and the practicalities of performing a data analysis. The second section will then "pop the hood" of these tools with a deeper understanding of the how and why.
+## Description
 
-## Course Description
+What is it that this website is all about?
 
-This course reviews critical concepts and data analysis methods in descriptive and inferential statistics. Basic and advanced material will be presented on topics that include measurement, descriptive and inferential data analyses for single and multiple group designs, and computer applications. There will be an emphasis on Open Science practices, especially reproducibility. Course content will be taught through lectures, discussion, and applied data analysis exercises. Throughout the course, I will try to maintain an emphasis on both the basic theory behind the statistics and its practical application to data sets.
+## Faculty
 
-## Meeting time and location
-
-**Lecture:** Tuesdays & Thursdays, 11:00am - 12:15pm, Liberal Arts 3233
-
-## Instructor
-
-**Dustin Haraden** -- [dxhgsh\@rit.edu](mailto:dxhgsh@rit.edu)
-
--   Office: EAS 3378
-
--   Office Hours: Tuesdays & Wednesdays 12:30 – 2:00pm or By Appointment
-
-# Materials
-
-## Textbook
-
-We will primarily be referring to chapters in the following textbooks:
-
--   [*Learning Statistics with R*](https://learningstatisticswithr-bookdown.netlify.com/index.html){target="_blank} by Danielle Navarro.
-
--   [*R for Data Science (2e)*](https://r4ds.hadley.nz/){target="_blank} (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)
-
--   [*OpenIntro Statistics 4^th^ ed.*](https://www.openintro.org/book/os/){target="_blank} (Diez, Barr, & Cetinkaya-Rundel, 2022)
-
-These textbook is available for free online and able to be downloaded. You may choose to purchase a paper copy if you wish, but it is not required.
-
-## R and RStudio
-
-Students must have the latest version of R as well as the RStudio GUI. Both applications are free and can be found [here](https://posit.co/download/rstudio-desktop/#download){target="_blank}.
-
-# Acknowledgements
-
-Special thanks to Sara Weston and their courses (PSY 611 & PSY 612) which greatly influenced the materials of this course, and their workshop at UIUC that got me hooked on R.
+Maybe include a list of faculty here?

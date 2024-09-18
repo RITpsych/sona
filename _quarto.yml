@@ -8,7 +8,7 @@ website:
   repo-url: https://github.com/RITpsych/website
   
   page-footer:
-    right: "This page is built with  and [Quarto](https://quarto.org/)."
+    right: "This page is built with Coffee and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Dustin Haraden, 2024"
   
   sidebar:
@@ -27,11 +27,8 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - syllabus.qmd
-      - lectures.qmd
-      - homework.qmd
-      - href: previous-years.qmd
-        text: Previous Years
+      - page1.qmd
+      - page2.qmd
 
 
 format:
