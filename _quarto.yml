@@ -27,6 +27,8 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
+      - href: labs/index.qmd
+        text: Labs
       - page1.qmd
       - page2.qmd
 
