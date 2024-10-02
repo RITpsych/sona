@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "page2.html",
-    "href": "page2.html",
-    "title": "Page 2",
-    "section": "",
-    "text": "Page 2\nMore info here",
-    "crumbs": [
-      "Page 2"
-    ]
-  },
-  {
     "objectID": "page1.html",
     "href": "page1.html",
     "title": "Page 1",
@@ -17,6 +7,26 @@
     "text": "Page 1",
     "crumbs": [
       "Page 1"
+    ]
+  },
+  {
+    "objectID": "labs/index.html",
+    "href": "labs/index.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Psychology Labs at RIT\nCreate a list of all the labs here:\nPADME Lab - Dr. Dustin Haraden",
+    "crumbs": [
+      "Labs"
+    ]
+  },
+  {
+    "objectID": "page2.html",
+    "href": "page2.html",
+    "title": "Page 2",
+    "section": "",
+    "text": "Page 2\nMore info here",
+    "crumbs": [
+      "Page 2"
     ]
   },
   {
@@ -58,5 +68,12 @@
     "crumbs": [
       "Welcome"
     ]
+  },
+  {
+    "objectID": "labs/padme.html",
+    "href": "labs/padme.html",
+    "title": "PADME lab",
+    "section": "",
+    "text": "Page for the PADME Lab!"
   }
 ]
