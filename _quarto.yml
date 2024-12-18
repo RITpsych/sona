@@ -11,16 +11,9 @@ website:
     right: "This page is built with Coffee and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Dustin Haraden, 2024"
   
-  sidebar:
-    logo: "images/hex-PSYC_640.png"
-    pinned: true
-    align: center
-        
-
-    style: "docked"
+  navbar:
     search: true
-    collapse-level: 1
-    contents:
+    left:
       - href: index.qmd
         text: Welcome
       - href: labs/index.qmd
