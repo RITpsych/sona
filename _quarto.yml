@@ -4,21 +4,18 @@ project:
 website: 
   page-navigation: true
   title: "RIT Psychology" 
-  site-url: "https://ritpsych.github.io/website/" 
-  repo-url: https://github.com/RITpsych/website
+  site-url: "https://ritpsych.github.io/sona/" 
+  repo-url: https://github.com/RITpsych/sona
   
   page-footer:
     right: "This page is built with Coffee and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Dustin Haraden, 2024"
   
   sidebar:
+    background: "#D9E3E4"
     logo: "images/hex-PSYC_640.png"
     pinned: true
     align: center
-    tools: 
-      - icon: github
-        href: https://github.com/rit-psych/website
-        text: "GitHub"
         
 
     style: "docked"
@@ -38,6 +35,7 @@ format:
     theme:
       light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
     toc: true
