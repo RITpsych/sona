@@ -1,61 +1,12 @@
 ---
-title: "RIT Psych"
-subtitle: "Department of Psychology, Rochester Institute of Technology"
-author: "Dustin Haraden, PhD"
+title: "Welcome!"
+subtitle: "Everything SONA Related"
 ---
 
 # Overview
 
-Here we can have some overview
+Here we can have some overview about SONA and what it means
 
-## Description
+# General 
 
-What is it that this website is all about?
-
-## Faculty
-
-Maybe include a list of faculty here?
-
--   Links to lab websites and faculty info
-
--   Maybe overall research interests and lab projects
-
-## Page Options - Things that are common across the department
-
--   Using git/github
-
--   SONA
-
--   Zotero
-
--   Citi Trainings
-
--   Qualtrics
-
--   IRB
-
--   Using your computer
-
-    -   File structure
-
-    -   Naming Conventions
-
--   General Professional Development
-
-    -   Letters of Rec - Best practices for asking/selecting
-
-        -   Provide info around how much time they work will reflect the type of letters that they can write
-
-        -   Recommendations of timelines to set themselves up for good letters and other things
-
-    -   CV Construction
-
-    -   Writing personal statements
-
-        -   Grad applications - kisses of death
-
-        -   Purdue Owl on personal statements
-
--   Research Templates
-
-    -   Poster Presentations
+- Sections based on your role

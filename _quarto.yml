@@ -18,6 +18,8 @@ website:
         text: Welcome
       - href: labs/index.qmd
         text: Labs
+      - href: https://rit.sona-systems.com/
+        text: Link to SONA
       - page1.qmd
       - page2.qmd
 
