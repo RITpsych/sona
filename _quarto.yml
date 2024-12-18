@@ -12,7 +12,6 @@ website:
     left: "&copy; CC-By Dustin Haraden, 2024"
   
   sidebar:
-    background: "#D9E3E4"
     logo: "images/hex-PSYC_640.png"
     pinned: true
     align: center
@@ -33,8 +32,8 @@ website:
 format:
   html:
     theme:
-      light: journal # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: journal
+      light: flatly 
+      dark: darkly
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
