@@ -2,7 +2,6 @@ project:
   type: website
   
 website: 
-  page-navigation: true
   title: "RIT Psychology" 
   site-url: "https://ritpsych.github.io/sona/" 
   repo-url: https://github.com/RITpsych/sona
@@ -30,7 +29,6 @@ format:
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
-    toc: true
 
 
 filters:
