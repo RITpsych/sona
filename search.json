@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "labs/index.html",
-    "href": "labs/index.html",
-    "title": "Labs",
-    "section": "",
-    "text": "Psychology Labs at RIT\nCreate a list of all the labs here:\nPADME Lab - Dr. Dustin Haraden"
-  },
-  {
     "objectID": "page2.html",
     "href": "page2.html",
     "title": "Page 2",
@@ -16,30 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "RIT Psych",
+    "title": "Welcome!",
     "section": "",
-    "text": "Here we can have some overview\n\n\nWhat is it that this website is all about?\n\n\n\nMaybe include a list of faculty here?\n\nLinks to lab websites and faculty info\nMaybe overall research interests and lab projects\n\n\n\n\n\nUsing git/github\nSONA\nZotero\nCiti Trainings\nQualtrics\nIRB\nUsing your computer\n\nFile structure\nNaming Conventions\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations"
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "RIT Psych",
-    "section": "",
-    "text": "What is it that this website is all about?"
-  },
-  {
-    "objectID": "index.html#faculty",
-    "href": "index.html#faculty",
-    "title": "RIT Psych",
-    "section": "",
-    "text": "Maybe include a list of faculty here?\n\nLinks to lab websites and faculty info\nMaybe overall research interests and lab projects"
-  },
-  {
-    "objectID": "index.html#page-options---things-that-are-common-across-the-department",
-    "href": "index.html#page-options---things-that-are-common-across-the-department",
-    "title": "RIT Psych",
-    "section": "",
-    "text": "Using git/github\nSONA\nZotero\nCiti Trainings\nQualtrics\nIRB\nUsing your computer\n\nFile structure\nNaming Conventions\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations"
+    "text": "Overview\nHere we can have some overview about SONA and what it means\n\n\nGeneral\n\nSections based on your role"
   },
   {
     "objectID": "page1.html",
@@ -47,12 +19,5 @@
     "title": "Page 1",
     "section": "",
     "text": "Page 1"
-  },
-  {
-    "objectID": "labs/padme.html",
-    "href": "labs/padme.html",
-    "title": "PADME lab",
-    "section": "",
-    "text": "Page for the PADME Lab!"
   }
 ]
