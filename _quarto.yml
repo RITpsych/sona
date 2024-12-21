@@ -23,6 +23,7 @@ website:
 
 format:
   html:
+    page-layout: article #https://quarto.org/docs/output-formats/page-layout.html
     theme:
       light: flatly 
       dark: darkly
