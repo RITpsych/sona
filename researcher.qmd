@@ -1,0 +1,215 @@
+---
+title: Researcher
+execute:
+  freeze: true
+---
+
+# Researcher Guide to SONA
+
+## **1. Get a SONA account.**
+
+Try to sign into [SONA](https://rit.sona-systems.com). If you ever used SONA as a participant, you still have an account. Try this step even if you think you've never used SONA. When possible, the SONA administrator is trying to create student researcher accounts ahead of time, so an account may have been created on your behalf.
+
+Your SONA username is always the letters and numbers that come before \@rit.edu in your *original* RIT email address (i.e., xyz1234 in xyz1234\@rit.edu).
+
+If you had an account previously, you might need to use the password recovery function to reopen your old account. If a new account was made for you, the temporary password is ‘password’.
+
+If no account exists for your username, use the *Request Account* function to create one. You do not need to select any classes.
+
+## **2. Get a SONA researcher account.**
+
+	Now that you have an account, sign in and check if you have researcher status. If you do, *Researcher* will be an option for you to select as you log in. Alternatively, you’ll know you’re signed in as a researcher because the 	orange bar at the top will say *My Studies*.
+
+	If you do not have researcher status, first obtain a participant account. Then, email the [SONA administrator](mailto:sona@rit.edu) with your full name and original RIT email to request researcher status be added to your existing account.
+
+## **3. Create your study.**
+
+Once steps 1 and 2 are completed, you should be able to log in as a researcher. Do so, and then click on Add New Study before selecting the appropriate study type.
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+|  |  |  |  |  |
+|  | Standard Study |  | Live (face-to-face) study; each participant comes in once |  |
+|  |  |  |  |  |
+|  		 | Multi-Part Standard Study **(rare)** |  | Live (face-to-face) study; each     participant comes in more than once |  |
+|  |  |  |  |  |
+|  | Online Internal Study **(not used)** |  | Uses SONA as your survey software. Don’t     select. |  |
+|  |  |  |  |  |
+|  | Online External Study |  | Links participants to surveys on Qualtrics, etc. |  |
+|  |  |  |  |  |
+
+Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.
+
+## **4. Fill in Basic Study Information.**
+
+*Prescreen* - The prescreen allows you to target your study to participants by age (18+ or minors). You MUST use the prescreen for age. You can also optionally use the prescreen for four other variables (hearing status, ability to understand oral English, colorblindness, and visual acuity).
+
+	*Study Name* – This should be descriptive, but does not have to reveal your exact hypothesis unless the IRB has specifically said otherwise. Your study name on SONA is not necessarily the same as the title of your research proposal or IRB submission.
+
+*Brief Abstract* – This is what participants will see when browsing through the system. It should state in general terms what participants will be asked to do (e.g., take surveys, complete math problems, etc.) and the broad themes or topics (e.g., surveys about your mood and eating habits). This is NOT the same as the abstract you submitted to the IRB or the abstract you would use in a published paper. In most cases you will not reveal your exact hypotheses unless required by the IRB.
+
+*Detailed Description* – Participants only see this if they have clicked on the study. Many do not actually read it. If you really need people to read it, you are strongly urged to put, “PLEASE READ THE DETAILED DESCRIPTION BEFORE SIGNING UP” in all caps in the Brief Abstract.
+
+*Eligibility Requirements* – Do NOT list age as an eligibility requirement; you should have already used the prescreen to ensure participants are 18+. If you have other eligibility requirements that can be managed using the prescreen, please use the prescreen and do not list them here. If you have eligibility requirements other than those covered by the prescreen, please list them here. Note that all Sona users are RIT students, so you can assume they are enrolled in college and able to read English.
+
+Be aware that sometimes participants sign up for studies without reading the eligibility criteria very carefully. You are strongly encouraged to reiterate your criteria with a few items at the start of your survey to ensure that only eligible people participate.
+
+*Duration* – You are **required** to test-run your study to get the best estimate of duration. Survey questions go much faster than you think, especially because respondents generally don’t spend a lot of time pondering them. 		**Qualtrics’ estimate of duration is incorrect!** Do not rely on it!
+
+*Credits* – Give a whole number value according to the following table, adding +1 for live studies:
+
+|          |                   |         |           |       |
+|----------|-------------------|---------|-----------|-------|
+|          |                   |         |           |       |
+|          | 0 – 15 minutes    |         | 1 credit  |       |
+|          |                   |         |           |       |
+|          | 16 – 30 minutes   |         | 2 credits |       |
+|          |                   |         |           |       |
+|          | 31 – 45 minutes   |         | 3 credits |       |
+|          |                   |         |           |       |
+|          | 46 – 60 minutes   |         | 4 credits |       |
+|  	        |                   |         |           |       |
+|  	        | 61 – 75 minutes   |  		       | 5 credits |  	     |
+|  	        |                   |         |           |       |
+|          | 76 – 90 minutes   |         | 6 credits |       |
+|  	        |                   |         |           |       |
+|          | 91 – 105 minutes  |         | 7 credits |       |
+|  	        |                   |         |           |       |
+|          | 106 – 120 minutes |         | 8 credits |       |
+|          |                   |         |           |       |
+
+Variable credits should be used ONLY when participants will be completing different task sets; for example, if all participants will complete a 10 minute screener (1 credit) and some will go on to complete a 30 minute survey (40 minutes total, or 3 credits). The simple fact that some participants will take longer or shorter time to complete the same basic 		task does NOT mean you should use of variable credits.
+
+If you find that average participation is taking considerably longer or shorter than your initial, you should considering changing the credit offering for future participants in the same study, but should give the 		number of credits promised to the current participants.
+
+*Preparation* – **(rare)** This line refers to actions participants must take (or not take) prior to the study and is usually left blank. An examples of a requirement that might go in this space would be, "Must not eat any solid food for 60 minutes prior your scheduled start time."
+
+*Researcher* – You will be selected automatically. Add your faculty mentor 	and any other collaborators.
+
+*IRB Approval Code* – Our IRB (HSRO) does not provide approval codes per se. Instead, enter the date listed on your IRB decision form (Form C) in MMDDYYYY format.
+
+	Next is a line that says Approved? which is handled by the SONA director.
+
+*Active Study* – If you want your study to be visible as soon as it’s approved, select yes. If you want your study to start out hidden, select no. Reasons to select no would include wanting to wait until a specific part of the semester to collect data. **Once you have finished collecting your data, please set your study to inactive by selecting No.** You can change this setting whenever you like, without needing SONA director approval. PSYC 101 students get frustrated when they try to find studies with available time slots. Setting your completed study to inactive clears it from the available study list, making it easier for PSYC 101 students to find active research.
+
+## **5. Adjust the Advanced Settings.**
+
+Most of these should be left in the default position. If an option is marked **(rare)**, it should be left alone unless your study specifically requires it. That said, virtually every study will use at least some advanced settings. A few apply to many studies and are marked **(common)**.
+
+*Prerequisites* **(rare)** – Use if people must be in a previous study before they can be in yours. Note that this does not automatically link their Study A responses to their Study B responses – you have to do that yourself.
+
+*Disqualifiers* **(rare)** – This disqualifies participants based on other studies they've enrolled in. It's mainly used if people cannot be in two similar studies or two forms of the same study.
+
+*Course Restrictions* **(rare)** – Use if you only want participants from specific courses or sections. Most participants are in PSYC101. Some are in other psychology classes that allow participation for extra credit.
+
+*Invitation Code* **(rare)** – Use if you’re going to give out personal invitations to specific people as a means of carefully screening participants.
+
+*The next few options are important for online studies.*
+
+*Should survey participants be identified only by a random, unique ID code?* **(common for online)** – This defaults to ‘No’ which means that participant names will be used rather than numerical codes. The names or codes appear in two places. First, they're listed in timeslot sign ups. Second, if you set up Qualtrics and SONA to automatically grant credit, the name or code will be in your data output file. In most cases, you should switch this option to ‘Yes’, meaning that anonymous codes will be used in place of names. Automatic credit assignment will work either way, and the use of code numbers increases participant privacy. **If you have told the IRB that you will not be collecting participants' names, you must select 'Yes'.**
+
+*Study URL* **(common for online)** – If you’re using a survey instrument like Qualtrics, enter the URL here. If you’re going to automatically assign credit (highly recommended), enter the URL from Qualtrics and add this text at the end:
+
+	?id=%SURVEY_CODE%
+
+	So, https://rit.qualtrics.com/jfe/form/SV_b9ZD41hMdsaqE becomes
+
+	https://rit.qualtrics.com/jfe/form/SV_b9ZD41hMdsaqE**?id=%SURVEY_CODE%**
+
+If you are using Qualtrics, you should set it up to grant credit automatically to those who complete the study. A brief version of the directions is provided below. (Detailed version [HERE](https://www.sona-systems.com/help/qualtrics.aspx).)
+
+1.  Make sure you put ?id=%SURVEY_CODE% at the end of your survey URL when you set it up in SONA.
+
+2.  
+
+3.  Once you’ve finished adjusting the Advanced Settings and you’ve hit [Add This Study]{.underline}, you’ll be taken to the [Study Information page]{.underline}. Scroll down to the row labeled [Website]{.underline}. You should see the words [Qualtrics Redirect to a UR]{.underline}L above a grey box with a web address in it. Hold onto this. You’ll need it in a moment.
+
+4.  
+
+5.  Switch over to Qualtrics. While in your survey in Qualtrics, look at the top of the page, below the Qualtrics four-circle logo and the word Survey, to see [Survey Flow]{.underline}. Click on that and a window will open up. In that window, select [Add a New Element Here]{.underline} followed by [Embedded Data]{.underline}. A green box with a dropdown menu will appear. Type 'id' (two letters, lowercase, no punctuation, nothing else) and hit enter. This green box can be anywhere in the order of your survey. Hit OK to close Survey Flow.
+
+6.  
+
+7.  Next to Survey Flow is a link labeled [Survey Options]{.underline}. Click it and scroll down until you see the Survey Termination options. Select [Redirect 	to a Full URL]{.underline} and paste the URL from the grey box in SONA under [Qualtrics Redirect 	to a URL]{.underline} from step two.
+
+8.  
+
+9.  Once you’ve saved all your changes in Qualtrics, go back to SONA and again find the box labeled Website under Study Information. There should be an orange box labeled [Sample Link with Embedded ID Code]{.underline}. Click on it and you should be taken to the first page of your study, like a participant. Take your entire study and if everything is working properly, at the end, you should be automatically redirected back to SONA. If it works, it will say, [System Message: No credit given]{.underline}, because you are not a participant, and therefore cannot sign up for this study. That means you have successfully set up your study to automatically grant credit.
+
+10.   	
+
+Your study should begin with a consent form that kicks people out if they do not consent. Do not simply redirect them to the end of the study. That will cause them to receive Sona credit for not participating. Instead, in Survey Flow, branch to the End of Survey. In the End of Survey block, click *Customize*, then *Override Survey Options* and *Redirect to a URL*. Set it to redirect to www.rit.edu.
+
+If your study has a choice between receiving Sona credit or participating in a raffle, you must ensure that no participant receives *both* Sona credit and a raffle entry. To do this, at the end of the study, put a forced-choice multiple choice question asking whether the participant would like Sona credit or a raffle entry. The Sona credit option should redirect back to the *Qualtrics Redirect to a URL* web address you obtained from Sona. The raffle entry option should redirect participants to a separate Qualtrics survey that collects raffle information.
+
+*Study URL Display* **(rare)** – Toggles whether participants can see the actual study URL, even after finishing; defaults to 'no'. This prevents participants from re-entering the survey and causing problems. Only switch to ‘yes’ if they are going to be 	required to re-enter for some reason.
+
+*This next few options are important for live studies.*
+
+*Participant Sign Up Deadline* **(common for live)** – For live studies, this prevents participants from signing up right before a timeslot. It defaults to 24 hours, meaning they must give you at least 1 day’s notice to participate. You can make this longer or shorter according to your needs. Online studies should ignore this.
+
+*Participant Cancellation Deadline***(common for live)** – Live study participants will be told that they must cancel at least this many hours before their scheduled time. If they cancel at least that far in advance, you should assign them an excused absence. If they cancel after the cancellation deadline, the absence can be considered unexcused. Online studies should ignore this.
+
+*Should the Researcher receive an email notification when a participant signs up or cancels?* **(common for live)** – This is very useful for researchers conducting live studies to keep track of signups and cancellations. Live study researchers should consider selecting 'yes'. Online studies should ignore this.
+
+*Researchers at Timeslot-Level* **(common for live)** – This is generally used in larger studies with one lead investigator and many research assistants. It means that different researchers or research assistants can 		open their own set of available timeslots that they manage individually.
+
+*The final two options apply to both live and online studies, but are both very rare.*
+
+*Comments Section* **(rare)** – Use this if you want to explain to the administrator 		why an unusual choice was made.
+
+*Research Alternative* **(rare)** – Only the system administrator can change this. It toggles to yes when SONA credit is offered for a task that is not research, such as aiding in practice test administration or gathering data for a class exercise. If you have made arrangements with the SONA administrator to offer a research alternative, email the administrator a reminder of this when you request that your study 		be approved.
+
+	Once you have made your selections for all of the above, click [Add This Study]{.underline} to move forward.
+
+## **6. Get your study approved by the SONA administrator.**
+
+After clicking Add This Study, You will be brought to a Study Information page. Check that everything is correct. Under Study Status, you will have an option to Send Request for approval of your study. Be sure to hit this button so that your study can be approved by the SONA administrator.
+
+You must also email the SONA administrator directly with basic information about your study (your name, your study's name), and your plans to comply with our [SONA regulations](https://people.rit.edu/amsgss/SONARegs.html).
+
+You will see an option to set Prescreen Restrictions. If you have not yet set your prescreen restrictions, do so now. Remember, you *must* use the prescreen for age. You *may* use the prescreen for hearing status, ability to understand oral English, colorblindness, or visual acuity.
+
+## **7. Create timeslots.**
+
+This occurs after your study is approved by the SONA administrator and set to Active. Participants cannot sign up until you create timeslots. Go to [Study Menu]{.underline}, then [View / Administer Timeslots]{.underline}. If you are creating a live study, you should make lots of little time slots for all the possible times you can test subjects, 		usually with a maximum of one participant per timeslot.
+
+	If you are creating an online study, you should create a single large timeslot. I recommend the timeslot be one week in duration. During the first week, this timeslot should have a maximum number of participants 	equal to the maximum number of participants you intend to recruit, according to your research plan and department regulations.
+
+	At the end of that week, create a new timeslot, with a maximum number of participants equal to the total number you need minus the number you’ve already recruited.
+
+If you are recruiting a control group (majority) and a target group (less common trait), begin by accepting all participants. Once you have the total number of majority participants you need, change your eligibility criteria so you are only recruiting target group participants. So, if you want 30 Deaf and 30 Hearing, you would begin by accepting all participants. Then, when you have 30 Hearing participants, you would change your eligibility criteria to permit only Deaf participants.
+
+## **8. Process out SONA credits.**
+
+	Enter SONA as a researcher, go to My Studies, and click on [Timeslots]{.underline} at the right side of the row. Click on any individual time slot to address it. Each row will be labeled by an ID code or name. You will be able to choose between Participated (and selecting the number of credits), Unexcused No-Show, Excused No-Show, and No Action Taken. Timeslots begin at No Action 	Taken.
+
+	If you’re doing an online study and you’ve set it up to automatically grant credit, completers should receive full credit a few minutes after finishing the study. You won’t need to do anything.
+
+|  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|
+|  |  |  |  |  |  |  |
+|  |   |  | Live study |  | Online study |  |
+|  |  |  |  |  |  |  |
+|  | Participated (full credit) |  | Normal participation, give as soon as possible |  | Normal participation, should be assigned automatically |  |
+|  |  |  |  |  |  |  |
+|  | Participated (partial credit) |  | Generally not given unless you have made     arrangements with the IRB |  | Generally not given unless you have made     arrangements with the IRB |  |
+|  |  |  |  |  |  |  |
+|  | Unexcused No-Show |  | Participant did not arrive at appointment AND made no     attempt to contact researcher |  | Attempted or "completed" the study by cheating or failing multiple attention checks |  |
+|  |  |  |  |  |  |  |
+|  | Excused No-Show |  | Participant did not arrive at appointment but notified     researcher |  | Participant signed up for timeslot but never attempted or     completed the study |  |
+|  |  |  |  |  |  |  |
+|  | No Action Taken Default |  | Default; switch after appointment |  | Default; switch once     timeslot ends |  |
+|  |  |  |  |  |  |  |
+
+In most cases, participants will receive full credit or an excused no-show. You may add a clause in your consent form indicating that partial credit will be granted to participants who begin but do not complete the study. If the IRB approves your consent form with this clause in it, you may grant pro-rated partial credit to those who began but did not complete the study. 	Otherwise, those who start but do not finish are considered excused no-shows.
+
+Unexcused no-shows should be reported to the SONA administrator. Provide the participant's name or code number, the study, and the reason for denying credit.
+
+If you are conducting a live study, you will have to manually grant credit. You are encouraged to do this often, typically the same day as testing. Participants will expect their credit to be processed within 1 week at the absolute latest. In the rare event you are conducting an online survey study but assigning credit manually, please do so minimally at least once per week, and ideally more often.
+
+## **9. Close out (or pause) your study.**
+
+	You can close your study whenever you have sufficient participants or reach other stop point, but no matter what, SONA participation always ends at 5pm on the last day of classes. Please be sure that you do not have any timeslots available extending past this date. Please process any outstanding timeslots as quickly as possible after classes end, within 48 hours at the most.
+
+	If you have not already done so, set your study to *Inactive* by going to the Study Information screen, under the Active Study question, and selecting [No]{.underline}. If your study is not finished, you can return it to active status when you resume data collection through SONA. You will not need administrator approval to do so.

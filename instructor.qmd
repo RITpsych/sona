@@ -1,0 +1,57 @@
+---
+title: Instructor
+execute:
+  freeze: true
+---
+
+**Statement in Syllabus**
+
+For courses that will be requiring students to participate in research studies through SONA, please be sure to include the following information into your syllabus (please copy & paste):
+
+> **Research Participation (SONA):**
+>
+> To help students learn more about research in psychology, all PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. All of our research is conducted through an online platform called **Sona**, so research participation credits are called Sona credits.
+>
+> Sona credits must be completed by [5pm on the last day of classes]{.underline}. If you have fewer than 8 credits by that time, your grade will be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). Each study lists how many credits it offers at a rate of 1 credit per 15 minutes of participation, and a 1 credit bonus for in-person studies.
+>
+> Please visit <https://ritpsych.github.io/sona/> for more information on how to make an account and complete the research participation requirement.
+
+------------------------------------------------------------------------
+
+# PSYC 101 Instructors
+
+\
+All PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. Students who earn 8 credits should receive the expected grade given their other course performance. If a student who earns fewer than 8 credits, that student's grade should be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). This requirement is pass/fail. **There is no partial credit for a student who earns 7 or fewer credits, earns credits after the deadline, or has some other excuse for not participating.**
+
+If your students tell you that no studies are available, they are not eligible for any studies or for some other reason cannot participate, tell them to check back later - studies change over the course of the semester. If they try to tell you that there were *never* sufficient studies available, they are mistaken or lying. We have never had a student whose disabilities or other conditions excluded them from every possible study - if you think you might have found the exception, please contact the Sona director.
+
+At the end of the semester, I will send you a report of your students' credits. Your grades should be based on that report. Do not grant additional credits because students said they completed other studies, claim that credit was inappropriately denied, or that a researcher has not yet given them credit they earned. All of those issues are resolved before the report is sent.
+
+All of our research / research alternative participation is managed by the Sona system (<https://rit.sona-systems.com/>). On the [website](https://people.rit.edu/amsgss), under the **Participants** heading, I have posted extensive information about how students can get a Sona account, enroll in studies, and earn credit. There is also an extended FAQ that covers less common questions. Your students should be able to manage most Sona participation without your assistance. If they have questions, tell them to review the guidance available on this site and, if that doesn’t work, to contact the Sona administrator directly (Dr. Dustin Haraden, [dxhgsh\@rit.edu](mailto: dxhgsh@rit.edu)).
+
+Research on Sona is conducted by faculty, graduate students, and undergraduates. Some researchers have studies posted already. Our undergraduate senior project students typically begin posting their projects 2-4 weeks into the semester, so students shouldn’t worry if there are few options initially. Students should be especially encouraged to participate in live studies. Live studies give students more exposure to psychology research methodology and techniques. Students also receive a bonus credit for live studies, above the usual rate.
+
+At the beginning of each semester, students will be asked to complete a 5-question prescreen which asks about age (under 18 or 18+), hearing, and vision. This is used to address the most common exclusionary criteria. Most studies have additional participant requirements - students must read the study description in Sona to ensure they are eligible. Each study has exclusion criteria. It is normal for students to be excluded from a few studies, but there are always enough credits available for ALL students to meet the 8-credit requirement.
+
+Research alternatives will be made available in the last 2 weeks of the semester for students who cannot or refuse to participate in real research. These fake studies are similar to real research participation and are clearly marked as ‘research alternatives’. All take 20 – 30 minutes to complete online and offer 2 Sona credits, automatically awarded on completion. Other research alternatives may be posted earlier in the semester as well. Students are, of course, encouraged to participate in real research if they are able and willing to do so.
+
+Students who indicate they are under 18 in the prescreen will be able to access the research alternatives immediately but will not be allowed to access any other studies. There is no way to change prescreen status during the semester, so a student who turns 18 during the semester has two choices: Complete the prescreen immediately and only do research alternatives OR begin research participation after their birthday and have normal access to studies. **Any student who lies about their age on the prescreen will lose ALL credits for the whole semester and will be prohibited from earning more.**
+
+**Participation for the semester ends at 5pm on the last day of classes.** Please remind your students of the deadline.
+
+Once the participation period ends, the Sona director will process the data. This requires me to contact researchers to resolve any unprocessed credits and may take 1-3 days. As soon as the report is available, I will send it to you. You will receive it early in finals week, well before grades are due. (Please do not email me and ask for it before then - I cannot process the data any faster.) The email will list all students who enrolled in your class on Sona and the number of credits they earned. It is the students’ job to enroll themselves in the correct class, and if they don’t do so, they usually fix the mistake before the semester’s end. However, if your email report contains names not in your class, please let me know.
+
+# PSYC 200+ Instructors
+
+While Sona registries for PSYC 101 classes are created by default, anyone at the 200+ level choosing to offer extra credit must need to contact the Sona director at the beginning of the semester to have a section created for their class.
+
+First, if you do not already have a Sona instructor account, please email the Sona director so one can be created for you. You should only have one Sona account. If you already have a participant or researcher account, tell the director to add instructor status to your existing account.
+
+Once you have instructor access, email the Sona director the following information:
+
+- The days and times of the class (or "Online")
+- The 3-digit class number (i.e., PSYC 249)
+- The 5-digit unique course code
+
+
+I will email you a PDF document that you should share with your students.

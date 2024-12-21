@@ -14,14 +14,11 @@ website:
     background: "#b55609"  #https://quarto.org/docs/websites/website-navigation.html
     search: true
     left:
-      - href: index.qmd
-        text: Welcome
-      - href: labs/index.qmd
-        text: Labs
+      - student.qmd
+      - instructor.qmd
+      - researcher.qmd
       - href: https://rit.sona-systems.com/
         text: Link to SONA
-      - page1.qmd
-      - page2.qmd
 
 
 format:
