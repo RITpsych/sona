@@ -4,18 +4,19 @@ execute:
   freeze: true
 ---
 
-# Creating a SONA account
+## Creating a SONA account
 
-If you have never used Sona before, you must go to http://rit.sona-systems.com and create an account. If you used SONA through RIT previously, use the password recovery feature to reactivate your account. Do not create a new one.
+If you have [***never***]{.underline} used Sona before, you must go to [http://rit.sona-systems.com](#0) (or click the link at the top of the page) and create an account.
+
+If you [***have***]{.underline} used SONA through RIT previously, log in, or use the password recovery feature to reactivate your account. [Do not create a new one.]{.underline}
 
 Put in your correct first and last name.
 
-Put in your RIT email address, the portion before the @ sign, as your User ID. So, if your RIT email is abc1234@rit.edu, your User ID would be abc1234. Even if you have set up an alternate email account or you redirect your email to another address, your User ID should be based on your original RIT email address, in the format abc1234.
+Put in your RIT email address, the portion before the \@ sign, as your User ID. So, if your RIT email is abc1234\@rit.edu, your User ID would be abc1234. Even if you have set up an alternate email account or you redirect your email to another address, your User ID should be based on your original RIT email address, in the format abc1234.
 
 Select only the class or classes you are enrolled in. Check to make sure you have the right section - look at the section number (i.e., PSYC 101-04), the 5-digit course code, and when/how the class meets. If you enroll yourself in the wrong class, you might not get credits that you have earned. Do NOT enroll yourself in every class or in any class that you aren't in.
 
-You will receive an email with a temporary password. Login again with your temporary password and change it to something else. 
-
+You will receive an email with a temporary password. Login again with your temporary password and change it to something else.
 
 Once you create an account, you'll be asked to acknowledge the human subjects policy. Then, you will be directed to complete a 5-question prescreen that asks about your age, vision, and hearing. Be sure to provide accurate information. If you tell the prescreen that you are under 18 when you are 18+ or vice versa, you will lose all of your credits and be prohibited from earning more credits for the rest of the semester.
 
@@ -38,7 +39,6 @@ Research and research alternatives have a debriefing form at the end which expla
 Make sure you go all the way to the end of the study. The last page, for example, might ask you to click a link or button to finish up. This is necessary to assign you credit.
 
 Read any post-study instructions carefully. For example, some allow you to choose between entering a raffle and getting SONA credit. For online studies, make sure you click through to the end of the study to ensure credit.
-
 
 Most online studies assign credit automatically in which case you should receive credit within a few minutes. Some online studies assign credit manually, as do all face-to-face studies. In this case, it can take up to 1 week for your credit to be posted. If you haven’t been credited by that time, contact the researcher. You don’t need to notify your professor about your credits. They will be handled automatically.
 
