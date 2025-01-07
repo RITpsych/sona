@@ -8,19 +8,19 @@ execute:
 
 For courses that will be requiring students to participate in research studies through SONA, please be sure to include the following information into your syllabus (please copy & paste):
 
-> **Research Participation (SONA):**
->
-> To help students learn more about research in psychology, all PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. All of our research is conducted through an online platform called **Sona**, so research participation credits are called Sona credits.
->
-> Sona credits must be completed by [5pm on the last day of classes]{.underline}. If you have fewer than 8 credits by that time, your grade will be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). Each study lists how many credits it offers at a rate of 1 credit per 15 minutes of participation, and a 1 credit bonus for in-person studies.
->
-> Please visit <https://ritpsych.github.io/sona/> for more information on how to make an account and complete the research participation requirement.
+**Research Participation (SONA):**
+
+To help students learn more about research in psychology, all PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. All of our research is conducted through an online platform called **Sona**, so research participation credits are called Sona credits.
+
+Sona credits must be completed by [5pm on the last day of classes]{.underline}. If you have fewer than 8 credits by that time, your grade will be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). Each study lists how many credits it offers at a rate of 1 credit per 15 minutes of participation, and a 1 credit bonus for in-person studies.
+
+Please visit <https://ritpsych.github.io/sona/> for more information on how to make an account and complete the research participation requirement.
 
 ------------------------------------------------------------------------
 
 # PSYC 101 Instructors
 
-\
+
 All PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. Students who earn 8 credits should receive the expected grade given their other course performance. If a student who earns fewer than 8 credits, that student's grade should be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). This requirement is pass/fail. **There is no partial credit for a student who earns 7 or fewer credits, earns credits after the deadline, or has some other excuse for not participating.**
 
 If your students tell you that no studies are available, they are not eligible for any studies or for some other reason cannot participate, tell them to check back later - studies change over the course of the semester. If they try to tell you that there were *never* sufficient studies available, they are mistaken or lying. We have never had a student whose disabilities or other conditions excluded them from every possible study - if you think you might have found the exception, please contact the Sona director.

@@ -1,0 +1,180 @@
+---
+title: FAQs
+execute:
+  freeze: true
+---
+
+### How can I be sure to get my credit?
+
+In all cases, be sure that you sign up for / access the study through Sona. For example, if you sign up through a paper advertisement tear-off strip that sends you directly to a study website, you may not be eligible for Sona credit.
+
+Complete the study to the best of your ability. If you give answers without really reading the questions and responding thoughtfully, your credit can be revoked.
+
+Most online studies grant credit automatically and more or less immediately. To make sure this works, complete the entire study through to the very end. Don’t skip the debriefing or other final pages. In most cases, the last page will have automatically redirected you back to Sona. In other cases, there may be a clickable link back to Sona. (In a few cases, there will be a choice between entering your email for a raffle or clicking back to Sona for credit – you can pick one or the other.)
+
+For face-to-face studies, show up. You can double-check that the researcher has the correct information on you. Some online studies input credit manually as well. In both of these cases, researchers have to log on and manually apply credit, often done in batches every week or so.
+
+### How do I sign up for studies?
+
+On Sona, you can browse the full list of studies currently active. The order of studies is randomized each time you open the page. The list contains the name of each study and a brief description of what’s involved. If you click through, you can read a more detailed description.
+
+The prescreen checks for a couple of common eligibility criteria. You won't be shown certain studies that are inconsistent with your prescreen answers. However, plenty of studies have other eligibility criteria, so read them carefuly. Requirements might pertain to motor or sensory abilities, your major, your religion, your relationship status, or anything else. In most cases, it will be clear whether you meet the eligibility criteria or not, but if you’re really unsure, you can email the researcher.
+
+If you’re signing up for a live, face-to-face study, you’ll pick a specific timeslot when you will meet the researcher in their lab – that will almost always be in Eastman (Building 1). For these studies, you’re usually required to sign up a certain length of time (e.g., 12 hours, 24 hours) before your scheduled appointment.
+
+If you’re signing up for an online study, you can usually complete it at any time before the end of the timeslot, which is often several days or weeks long. There’s no real advantage to signing up ahead of time, and it can create some confusion on the researcher’s end. Thus, when possible for online studies only, it’s probably best to sign up when you intend to do the study.
+
+### I'm a minor. What do I do?
+
+Minors cannot consent to real research, so they must do research alternatives instead. If you indicate that you are under 18 on your prescreen, you will be granted immediate access to research alternatives and you will be prohibited from accessing real research. If you lie and say you are under 18 when you are 18+ or vice versa, you will lose all credits for the semester and be prohibited form earning more.
+
+Bonus question: If I'm 17 and will turn 18 during the course of the semester, what should I put on the prescreen?	
+
+Your prescreen answers cannot be changed over the course of the semester, so you have two choices: If you complete the prescreen before your birthday, you will have immediate access to the research alternatives, but will be barred from real research. If you wait until your birthday and indicate you are 18, you will be able to do real research, but you will be unable to do research alternatives until they open up for everyone in the last two weeks of the semester.
+
+### I only completed half the study before I quit / was abducted by sasquatch / developed an allergy to wi-fi. Do I still get credit?
+
+Most studies only grant credit if you complete the entire thing. Occasionally, a study will specify in its consent form that it offers partial credit. If it does not indicate it offers partial credit, you get nothing unless you finish the study.
+
+### I wanted to be in Study X but I can’t find it.
+
+Good. Unauthorized X-men research is very dangerous. Look what they did to Wolverine.
+
+(And I know, that wasn’t X-men research, that was Department H of the Canadian government. Nobody email me with that little pearl of wisdom.)
+
+A study might not be shown to you because your prescreen indicated you were ineligible, or it may not currently be recruiting. Studies close down for a range of reasons. They may have all the participants they need. In rare cases, they have temporarily paused data collection and will resume later.However, if it’s no longer listed in Sona, it’s almost certainly over. Still, if you want to learn more about it, you can contact the researcher.
+
+In other cases, the study was never on Sona to begin with. If you’ve seen it advertised around campus, it may not run through the Sona system, in which case you are free to participate but will not get Sona credit.
+
+### It says there aren’t any studies with timeslots today.
+
+You can select an option to show only studies with timeslots today. However, this only applies to studies that have separate timeslots for each participant – mostly studies that are conducted face-to-face. Online studies usually have one giant timeslot stretching over several days or weeks. The system doesn’t read this as having a timeslot today for some reason. As such, the Studies with Timeslots Today function isn’t very useful if you're looking for online studies. You can complete an online study at any time during that long timeslot, as long as you're done before the deadline.
+
+### My credit isn’t there. I should freak out, right?
+
+For an online study that redirected you back to Sona after completion, wait 24 hours before worrying. Sometimes the system is a little clunky.
+
+### For face-to-face studies or online studies without automatic redirects back to Sona, wait one week.
+
+If you haven’t gotten credit by then, a polite email to the researcher is fine. (Etiquette pro-tip: Some researchers are faculty and some are students. If you’re not sure which, you’re talking to, assume you’re talking to faculty.) Researchers know your credit is due at the end of the semester and they will be reminded by the Sona administrator - you don't have to worry about reminding them of that.
+
+It is also possible that you were denied credit due to random or careless responding. Click HERE for more information. If this happens to you, give up on that study and find a new one.
+
+### Cool, so I’ll skip doing the study and then email the researcher for credit.
+
+We have a number of ways of verifying whether you actually completed the study. False claims of doing so are academic dishonesty and will be dealt with accordingly.
+
+### My internet cut out and I’m not sure if my survey responses were registered.
+
+That’s not a question, but I’ll answer it anyway.
+
+If as you’re going through the survey, you keep finding that pages are timing out, having display errors, etc., you would probably be best off (1) finding another study to participate in (2) attempting the survey when your internet connection is stronger or (3) completing surveys on a different computer.
+
+If you make it all the way to the end, answered every question, and went through every page, your responses were probably registered. If you did all that and were not issued Sona credit after 24 hours, email the researcher your name, Sona username, the date and time you took the survey, and your responses to a few of the demographic questions that were asked in the study. That will allow the researcher to locate your response even if the survey is anonymous and credit you accordingly. The researcher may or may not grant you credit - for example, you might have thought you finished the study, but you really didn't. In these cases, the researcher's decision is final.
+
+### There’s a study I want to participate in, but there are never any open timeslots.
+
+Occasionally, timeslots aren’t available because the researcher is out of town, or other students already took all the timeslots. In that case, check back again in a few days. However, when researchers finish collecting data or, they stop opening up timeslots. Eventually the study will be switched over to Inactive and will stop appearing in the Student view, but it might hang around in the Active studies list for a while, tantalizingly out of reach. In that case, you’ll have to find a different study.
+
+### This is easy! I can just click on random answers and still get credit, right?
+
+Please don’t do that, for three reasons.
+
+For real studies, researchers, including your professors and fellow students, are relying on this data to be honest. Random or inattentive responding messes up their research and can even harm scientific progress.
+The purpose of the Sona assignment is for you to learn about psychology research by participating in real or simulated research tasks. If you’re not paying attention, you’re not learning anything.
+Many studies (including Research Alternatives) have built-in checks to make sure that you’re paying attention and not just clicking randomly. Just like your instructor might deny your attendance credit if you spend all of class texting, if you fail too many of these attention checks, real studies and research alternatives reserve the right to deny you credit. 
+
+
+### How can I be the best little lab rat?
+
+You can’t. Pinky and the Brain have the market cornered. However, there are a few things participants can do to really improve the quality of research data:
+
+Be honest. Don’t lie about eligibility criteria or survey answers. If you don’t want to give an honest answer to a survey question, it’s better to leave it blank than to lie. Some studies won't allow you to skip questions. If questions upset or offend you, you can quit the study.
+Read the instructions and then follow them. Most studies contain more than one survey and each one has its own directions. The list of answer choices usually changes from one survey to another as well.
+Pay attention. Researchers have ways to tell if you’re clicking randomly. Ideally, complete your participation in a non-distracting environment, without videos, texting, games, etc. on in the background. Remember, your credit can be revoked if you respond without effort.
+Give feedback, if necessary. If an item really bothered you, didn’t make sense, or used a phrase you didn’t understand, feel free to contact the researcher with that information. This lets researchers know where potential data problems may be and helps them with their analysis.
+
+
+### Wait, that’s not fair. I did the study! (I mean, I closed my eyes and picked random response boxes, until it said I was done…) Why did my credit disappear?
+
+The purpose of the research participation requirement is for you to learn more about research. You are supposed to receive credit for actively participating in research (or research alternatives), which means reading the instructions, thinking about the questions, and answering truthfully. You are not automatically owed credit for clicking the mouse one hundred times. You’re not learning about research if you’re not reading, understanding, and responding with effort.
+
+So how does credit get granted and then taken away? For many online studies, credit is granted automatically when you click that last box. Researchers do this because it’s convenient for everyone and they assume that most people will put forth good effort. Some studies have built-in ways of detecting inattentive responding and will automatically deny you credit. Other studies are checking whether you're paying attention, but they go back and deny credit manually.
+
+Imagine you offered a neighbor \$20 to rake the leaves in your yard, but instead of raking leaves, your neighbor just leaned on the rake while playing Candy Crush. Wouldn’t you want your \$20 back? Just being on the study website is not the same as completing this assignment.
+
+### How flexible is the participation requirement and due date for PSYC 101? What if I have 6 or 7 credits finished? Or what if I was working on studies when the due date and time passed?
+
+The participation requirement is not at all flexible. Only two hours of your time (often less) are required; this is a very reasonable amount of time to ask you to put toward homework for a college class. There are always enough studies and research alternatives that every student can complete all 8 credits. The requirement is Pass/Fail - the effect on your PSYC 101 grade is the same whether you have 0 credits or 7 credits.
+
+You must complete participation by 5pm on the last day of classes. That's the last day of classes, not the last day of exams. Any participation after that time will not count. You can check the current RIT Calendar to verfiy the date. Find the appropriate semester and look for the day labeled "Last day, evening, and online classes". Once 5pm on the last day of classes has passed, you cannot earn any more Sona credit for the semester.
+
+In rare cases, a student will complete a study before the deadline, but because credit is being assigned manually, the researcher may not grant credit immediately. In this case, the student does get credit. All open timeslots are checked and resolved before instructors receive a report of their class's Sona credits.
+
+### Does it matter which course I sign up for in Sona? As long as I'm in PSYC 101, I should be okay, right? Or maybe I should enroll in all the PSYC 101 courses, just to be safe.
+
+PLEASE don't do this. When the semester ends, your credit will be sent to the instructor of the course(s) you enrolled in. If you enroll in the wrong Sona course section, your results will be sent to the wrong instructor. I realize that there are several PSYC 101 sections running each semester, so I make sure that the course labels include a lot of information that you can use to ensure you find the right course. Look for the correct instructor, 5-digit code, and days/times.
+
+It is NOT the responsibility of your instructor or the Sona director to make sure you are enrolled in the right course. If you fail to register correctly, you may be denied your credits.
+
+Some students try to resolve this problem by signing up for every course. Again, please don't do this. It only makes it harder for me to ensure you get credit for your work in the end.
+
+### My credit disappeared! (Or, I didn't get credit when I expected to!) Is there an appeals process?
+
+First, check whether you completed the whole study correctly. Some online studies, for example, have multiple debriefing pages and you may have quit too soon. For studies that grant credit manually, wait a reasonable length of time (usually one week) for the researcher to assign credit.
+
+If you got were participating in a study while daydreaming, doing something else, or otherwise responding without thinking at least some of the time, please go find a new study.
+
+If you honestly think there was a mistake, you should email the researcher AND copy the Sona director. If you do not copy the Sona director, your appeal will be automatically denied. In your email, you should indicate what the study was, what it was about, and the date and time at which you took it. It is up to the researcher to decide whether to grant Sona credit. The Sona director will keep a list of people who have sought appeals. Abuse of the appeals process is a form of academic dishonesty and will be dealt with appropriately.
+
+### What if I can’t or don’t want to participate in research?
+
+To answer that, you need to understand the definition of research. For ethics purposes, ‘research’ doesn't just mean administering a survey or conducting an experiment. It means collecting data in an attempt to investigate a hypothesis and improve the state of scientific knowledge, usually by sharing the results at a scientific conference or in a published paper. It’s unethical for us to force you to participate in research and we absolutely do not. On the other hand, it’s perfectly reasonable for a course instructor to expect you to complete educational activities to earn your course grade. Thus, we offer Research Alternative tasks, which are very similar to research, but don’t involve data collection to investigate a hypothesis. It’s like a research simulator.
+
+Participating in real research helps faculty and student investigators. However, if you are unable or unwilling to do so, you can earn your Sona credit via Research Alternative tasks.
+
+Two weeks before the end of the semester, several Research Alternatives will be made available to everyone on Sona, enough that you will be able to get all of your required course credit through Research Alternatives. These online studies simulate real research studies but will never be used to collect data for publication. They are completely anonymous and do not address any topics that most people would consider personally sensitive. Your data is temporarily linked to your Sona account number – this is so credit can be assigned. The Sona account number link will be destroyed after the semester ends.
+
+Research alternatives are no easier or faster than comparable real research studies. The only difference is that they are not research. There may be other Research Alternatives available earlier in the semester. They are always clearly marked in Sona.
+
+Minors cannot consent to real research, so they must do research alternatives instead. If you indicate that you are under 18 on your prescreen, you will be granted immediate access to research alternatives and you will be prohibited from accessing real research. If you lie and say you are under 18 when you are 18+ or vice versa, you will lose all credits for the semester and be prohibited form earning more.
+
+You might also choose research alternatives because you are not eligible for other studies or you simply don't want to do research. According to the ethical rules that govern human research, you don’t need a reason to refuse to participate. If you can participate but you don’t want to, that’s okay. Just complete Research Alternatives instead.
+
+Some students avoid particular studies because they are uncomfortable with research risks. The research alternatives all involve no more risk than everyday life - you might feel a little bored or frustrated, for example. Real research usually involves minimal risk as well, but some studies involve slightly more risk. The most common risks are:
+
+
+	
+
+· Boredom or fatigue when completing surveys or doing a repetitive task
+
+· Frustration when attempting a difficult task
+
+· Mild emotional discomfort when asked to view stimuli or complete surveys on topics you have strong feelings about
+
+	
+
+Risks are different for everyone. For example, most people would feel a little uncomfortable looking at a picture of a spider. A few people would feel happy, and a few would feel extremely uncomfortable. Looking at a picture of a spider would not be high-risk for most people, but a few people may feel differently. That’s why each study begins with a consent form that lets you decide for yourself how you feel about the risks. The consent form that begins each study contains more information about the specific risks of participation. You can always contact the researcher for further information if you think that will help you decide.
+
+Since most research studies have similar risks to everyday life, research alternative tasks may also have some of the same risks. For example, one research alternative task requires participants to solve difficult word problems that might be frustrating. Another asks students to complete a survey about becoming an adult, which might cause mild emotional discomfort if you have strong feelings about that topic. Research alternative tasks do not collect personally identifying information and will never be shared with the scientific community (for example, the data will never be shown at a conference or published in a journal). However, the anonymous data may be used by psychology students to practice statistics and research skills. Research alternative tasks do not have an official consent form, because that’s an element of real research. However, they do begin with a document that gives you some idea of the tasks and topics involved so you can choose whether or not to participate.
+
+### What should I do if I sign up for a face-to-face study, but can’t make it / am late / forgot about it?
+
+If at all possible, contact the researcher right away. Remember that some researchers will be coming in just to meet with you and others will be sitting around waiting for you to show up. Even if you've missed your appointment entirely, it's still good form to contact them. They may or may not allow you to reschedule, if you would like.
+
+If you persistently schedule live research timeslots and fail to show up, you may be prohibited from participating in live research.
+
+### Who should I contact if I have a question or problem?
+
+I have created very extensive documentation for students, available on my website at https://people.rit.edu/amsgss. Please go there first. If that does not answer your questions, try the following resources:
+
+If you have a question about the PSYC 101 research participation requirement, it is almost certainly answered in the documentation on my website and provided by your instructor.
+Check if you can access the information or solve the problem yourself. You can see whether a study has assigned them credits and how many credits you have earned in total through your own Sona accounts. If you enrolled in or assigned credits to the wrong class, you can fix that too.
+If there's a question about research ethics - for example, if you feel your participant rights were violated - you should contact RIT's Human Subjects Research Office.
+If you have a question about the PSYC 101 research participation requirement, or about Sona extra credit, ask your instructor.
+If the question is about the content of a specific study or when credits will be assigned, contact the researcher(s) directly.
+If you are disputing a decision to deny credit for a particular study, contact the researcher directly AND the Sona director.
+ONLY if those resources do not answer the question should you contact the Sona director, Dr. Alan Smerbeck. 
+
+
+There is one exception: If the you incorrectly enter your username when setting up an account (e.g., enter abc1235 instead of abc1234 or enters anything other than your RIT username), you must contact the Sona director to resolve the issue. 

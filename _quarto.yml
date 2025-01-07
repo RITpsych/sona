@@ -8,7 +8,7 @@ website:
   
   page-footer:
     right: "This page is built with Coffee and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Dustin Haraden, 2024"
+    left: "&copy; CC-By Dustin Haraden, 2025"
   
   navbar:
     background: "#b55609"  #https://quarto.org/docs/websites/website-navigation.html
@@ -17,8 +17,11 @@ website:
       - student.qmd
       - instructor.qmd
       - researcher.qmd
+      - regulations.qmd
+      - faq.qmd
       - href: https://rit.sona-systems.com/
         text: Link to SONA
+        target: _blank
 
 
 format:

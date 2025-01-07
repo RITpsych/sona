@@ -1,0 +1,60 @@
+---
+title: SONA Regulations & Recommendations
+execute:
+  freeze: true
+---
+
+Regulations for ALL Researchers
+
+Recruitment by directly or indirectly contacting PSYC 101 classes is prohibited.
+Recruitment through social media, email, flyers, etc. must be approved by the IRB, including content, medium, and target.
+All studies must exclude minors (below age 18) unless they have specific approval from the IRB to obtain parental consent.
+Studies must have and document reasonable procedures in place to ensure that, with minimal error, credit only goes to those who were eligible and validly completed the study. (Partial credit for partial completion can be validly assigned if in accordance with the study's IRB packet.)
+Studies must use simulated participation or other data-based method of estimating participation duration AND must assess and adjust based on actual completion times after 10-25 real participants.
+Studies must be set to Inactive by the researcher when not presently collecting data through SONA, including breaks between semesters.
+If credit is assigned or adjusted manually, this must be done no more than one week after participation.
+Researchers must notify the SONA director of instances of participant misconduct and any appeals participants make.
+Online studies must link participation to a code number, not respondents' real names, unless they have IRB permission to link data and real names. If emails or other identifying information are collected, this should be done in a separate survey, unlinked to the primary one.
+
+**Regulations for Undergraduate Researchers**
+
+Undergraduate students's studies are restricted in the total number of SONA credits they can distribute through SONA. The cap is calculated by multiplying the total number of PSYC 101 students by 8 and then by 0.33. This is divided by the total number of undergraduates doing senior project that semester. No matter what, the cap will not be set greater than 100. You won't know a semester's cap until the semester begins, but it will be higher in the Fall and lower in the Spring.
+
+This is a cap on the total number of credits undergraduate researchers can distribute, not the total number of participants. However, the bonus credit given by live studies does not count against this total. So, if the cap were set at 60, an online study requiring 25 minutes and worth 2 credits could include 30 participants. A live study lasting 25 minutes would be worth 3 credits (2 regular + 1 bonus), but could still recruit 30 participants, because only the regular credits count toward the cap.
+
+If an undergraduate study makes an error, any credits distributed as a result still count against the resesarcher's total, even if no useful data was generated.
+
+If an undergraduate researcher wants to exceed the credit cap, they must apply for a waiver. To do so, they must submit their request to the department chair and the SONA director. Waivers will be judged based on the following criteria:
+
+A completed power analysis justifying the need
+Appropriate efforts to get the most power out of participants (i.e., recruitment plan, time estimate, reliable measures, modest number of conditions, etc.)
+A well-defined data analysis plan with a modest number of tests
+Specific, realistic plan to disseminate beyond RIT
+
+**Recommendations for Researchers**
+
+Researchers who have the flexibility to do so should consider collecting data in the Fall when there are more participants and fewer studies.
+
+Psychology faculty should consider offering extra credit for SONA participation in breadth and pre-track courses, especially when taught live and/or in the Spring.
+
+Graduate students who intend to use \>100 SONA credits should work with their faculty advisor to conduct a power analysis and adjust their plan accordingly.
+
+All researchers should plan to avoid oversampling majority controls. If a researcher wants to recruit equal numbers of a majority and a minority group, the following procedure is advised: (1) Initially recruit members of both groups. (2) Monitor participation rates. (3) When the target number of majority participants is met, alter your exclusion criteria on SONA to indicate that only minority participants are eligible.
+
+All researchers conducting online studies should use attention checks to and other techniques to ensure that credit only goes to valid, attentive participation. The IRB has ruled that credit may be denied or rescinded if a participant fails multiple unambiguous attention checks. A guide to creating and implementing attention checks is available for RIT researchers. Contact the SONA director to receive a copy.
+
+**Getting More out of Fewer Participants**
+
+When undergrads are asked how to improve a study, they nearly always suggest increasing sample size. While that does have benefits, it's hardly the only way to strengthen a study's power and validity, and it's often not the best one. The suggestions below were written for undergraduate researchers, but apply to all studies.
+
+Plan analyses before you begin gathering data. This helps you avoid administering redundant tests, collecting responses you can't score, and getting stuck with overly complicated statistical analyses.
+
+Select a reasonable number of hypotheses and tests. More participants increases your power (your chance of finding real effects), but that power has to be divided among all the tests you run. Using the Bonferroni correction is a good way to keep this in mind and restrain yourself. A good undergraduate study has 2-6 preliminary tests (demographic differences, etc.), 3-8 tests of the main hypotheses, and 0-4 post-hoc tests.
+
+Use more reliable measures. Review survey psychometrics before selecting them. Avoid self-made surveys and single-item ratings.
+
+Study fewer conditions, groups, etc. This raises your power.
+
+Be careful in your recruitment. Don’t recruit many unsuitable participants in hopes of getting a few target ones.
+
+Remember that undergraduate research does not have to be comprehensive! A rigorous investigation into one or two focused questions is better than a scattershot approach to many poorly-defined ones.

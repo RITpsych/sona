@@ -1,19 +1,24 @@
 ---
 title: "Welcome!"
 subtitle: "Everything SONA Related"
+
 ---
+> The majority of content on this site is authored by Dr. Alan Smerbeck
+
 
 # Overview
 
-Here we can have some overview about SONA and what it means
+Psychology is a science that relies on data and experimentation. Research determines which theories are well-supported and which should be discarded. Understanding psychology research is important to understanding psychology, which is why all PSYC 101 classes have the research experience requirement.
+
+SONA Systems is the system that we use at RIT (as do many other universities) to organize all research looking for student participation. This is a central location for you to identify the available studies, participate in them, receive course credit (and some studies may even offer payment).
+
+Please use this website to navigate through the SONA system as either a student participant, researcher or instructor. Reach out to the SONA coordinator if you have any questions (sona.
 
 # General 
 
 - Sections based on your role
 
 # Info
-
-Psychology is a science that relies on data and experimentation. Research determines which theories are well-supported and which should be discarded. Understanding psychology research is important to understanding psychology, which is why all PSYC 101 classes have the research experience requirement.
 
 This requirement is pass/fail. If you have 8 credits of research experience by 5pm on the last day of classes, you pass. If you have fewer than 8 credits at that time, your course grade will be marked down the equivalent of one ‘step’ in the plus / minus system (i.e., B+ to B; B- to C+; D to F). This is managed through a system called SONA, which is why participation credits are often called SONA credits. 1 SONA credit is assigned per 15 minutes of participation, so 8 credits require a total of 2 hours’ time.
 

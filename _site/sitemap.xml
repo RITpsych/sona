@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ritpsych.github.io/sona/student.html</loc>
-    <lastmod>2024-12-21T13:15:15.199Z</lastmod>
+    <lastmod>2025-01-07T22:01:46.313Z</lastmod>
   </url>
   <url>
-    <loc>https://ritpsych.github.io/sona/instructor.html</loc>
-    <lastmod>2024-12-21T13:49:08.569Z</lastmod>
+    <loc>https://ritpsych.github.io/sona/regulations.html</loc>
+    <lastmod>2025-01-07T23:08:53.291Z</lastmod>
   </url>
   <url>
     <loc>https://ritpsych.github.io/sona/index.html</loc>
-    <lastmod>2024-12-21T14:02:56.731Z</lastmod>
+    <lastmod>2025-01-07T23:10:38.184Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritpsych.github.io/sona/faq.html</loc>
+    <lastmod>2025-01-07T23:15:19.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ritpsych.github.io/sona/instructor.html</loc>
+    <lastmod>2025-01-07T22:59:12.572Z</lastmod>
   </url>
   <url>
     <loc>https://ritpsych.github.io/sona/researcher.html</loc>
-    <lastmod>2024-12-21T13:53:03.228Z</lastmod>
+    <lastmod>2025-01-07T23:05:12.143Z</lastmod>
   </url>
 </urlset>
