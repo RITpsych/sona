@@ -1,10 +1,11 @@
 ---
 title: "Welcome!"
 subtitle: "Everything SONA Related"
-
 ---
-> The majority of content on this site is authored by Dr. Alan Smerbeck
 
+**SONA Coordinator**: Dustin Haraden, PhD
+
+The content from this site has been previously created by Dr. Alan Smerbeck, and will be updated periodically. For any questions, please reach out to the current SONA Coordinator (sona\@rit.edu)
 
 # Overview
 
@@ -12,13 +13,13 @@ Psychology is a science that relies on data and experimentation. Research determ
 
 SONA Systems is the system that we use at RIT (as do many other universities) to organize all research looking for student participation. This is a central location for you to identify the available studies, participate in them, receive course credit (and some studies may even offer payment).
 
-Please use this website to navigate through the SONA system as either a student participant, researcher or instructor. Reach out to the SONA coordinator if you have any questions (sona.
+Please use this website to navigate through the SONA system as either a student participant, researcher or instructor. Reach out to the SONA coordinator if you have any questions (sona\@rit.edu).
 
-# General 
+# Getting Started
 
-- Sections based on your role
+-   Sections based on your role
 
-# Info
+# Participant Info
 
 This requirement is pass/fail. If you have 8 credits of research experience by 5pm on the last day of classes, you pass. If you have fewer than 8 credits at that time, your course grade will be marked down the equivalent of one ‘step’ in the plus / minus system (i.e., B+ to B; B- to C+; D to F). This is managed through a system called SONA, which is why participation credits are often called SONA credits. 1 SONA credit is assigned per 15 minutes of participation, so 8 credits require a total of 2 hours’ time.
 
@@ -28,4 +29,4 @@ You can earn credits in two ways: You can participate in real research studies O
 
 If you are under 18, you cannot participate in most research studies because you cannot consent for yourself. You can complete research alternatives without parental consent. However, research alternatives are not available to all students until the last two weeks of class. Minor students (those aged 17 or under) can follow a special procedure to have early access to research alternatives, detailed HERE. This procedure is not required; minor students can still wait until the last two weeks of the semester to complete research alternatives.
 
-Whether you complete real research or alternatives, you must sign up through http://rit.sona-systems.com to get credit. 
+Whether you complete real research or alternatives, you must sign up through http://rit.sona-systems.com to get credit.

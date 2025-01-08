@@ -4,19 +4,31 @@ execute:
   freeze: true
 ---
 
-## Creating a SONA account
+This section is designed to answer any questions that you may have as a participant. Below you can find the sections and navigate to them based on your current status. If you have questions or problems that are not addressed here, please reach out to the SONA Coordinator ([sona\@rit.edu](mailto:sona@rit.edu)).
 
-If you have [***never***]{.underline} used Sona before, you must go to [http://rit.sona-systems.com](#0) (or click the link at the top of the page) and create an account.
+## First Time Users
 
-If you [***have***]{.underline} used SONA through RIT previously, log in, or use the password recovery feature to reactivate your account. [Do not create a new one.]{.underline}
+This section is for folks who have [***never***]{.underline} used SONA before. You may be taking PSYC 101 and need to complete the expected 8 credits, or you might be in a PSYC class that offers some extra credit. Whatever it is, if this is your first time hearing about SONA, you are in the right place.
 
-Put in your correct first and last name.
+### Creating a new SONA account
 
-Put in your RIT email address, the portion before the \@ sign, as your User ID. So, if your RIT email is abc1234\@rit.edu, your User ID would be abc1234. Even if you have set up an alternate email account or you redirect your email to another address, your User ID should be based on your original RIT email address, in the format abc1234.
+-   [**Create a New Account**]{.underline}
 
-Select only the class or classes you are enrolled in. Check to make sure you have the right section - look at the section number (i.e., PSYC 101-04), the 5-digit course code, and when/how the class meets. If you enroll yourself in the wrong class, you might not get credits that you have earned. Do NOT enroll yourself in every class or in any class that you aren't in.
+    At the bottom of the RIT SONA website, there is a button that says "Request Account". Click that to start the process of creating your account.
 
-You will receive an email with a temporary password. Login again with your temporary password and change it to something else.
+    Or you could [just click this link here](http://rit.sona-systems.com/student_new_user.aspx){target="_blank"} to go right to the page
+
+> **NOTE:** Your User ID is what is before the @rit.edu (e.g., Email: abc1234\@rit.edu; User ID: abc1234).
+
+\[INSERT PICTURE OF THE CLASS SELECTION SECTION\]
+
+**Select only the class or classes you are enrolled in.** Check to make sure you have the right section - look at the section number (i.e., PSYC 101-04), the 5-digit course code, and when/how the class meets. If you enroll yourself in the wrong class, you might not get credits that you have earned. Do NOT enroll yourself in every class or in any class that you aren't in.
+
+-   Log in to your new account!
+
+    You will receive an email with a temporary password, please update this...or don't. We aren't your boss.
+
+    -   Upon logging in, you will complete a short survey to see what studies work best for you. **ANSWER THESE ACCURATELY**. If you report inaccurate information here, you can lose all your credits and
 
 Once you create an account, you'll be asked to acknowledge the human subjects policy. Then, you will be directed to complete a 5-question prescreen that asks about your age, vision, and hearing. Be sure to provide accurate information. If you tell the prescreen that you are under 18 when you are 18+ or vice versa, you will lose all of your credits and be prohibited from earning more credits for the rest of the semester.
 

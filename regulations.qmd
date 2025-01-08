@@ -6,15 +6,7 @@ execute:
 
 Regulations for ALL Researchers
 
-Recruitment by directly or indirectly contacting PSYC 101 classes is prohibited.
-Recruitment through social media, email, flyers, etc. must be approved by the IRB, including content, medium, and target.
-All studies must exclude minors (below age 18) unless they have specific approval from the IRB to obtain parental consent.
-Studies must have and document reasonable procedures in place to ensure that, with minimal error, credit only goes to those who were eligible and validly completed the study. (Partial credit for partial completion can be validly assigned if in accordance with the study's IRB packet.)
-Studies must use simulated participation or other data-based method of estimating participation duration AND must assess and adjust based on actual completion times after 10-25 real participants.
-Studies must be set to Inactive by the researcher when not presently collecting data through SONA, including breaks between semesters.
-If credit is assigned or adjusted manually, this must be done no more than one week after participation.
-Researchers must notify the SONA director of instances of participant misconduct and any appeals participants make.
-Online studies must link participation to a code number, not respondents' real names, unless they have IRB permission to link data and real names. If emails or other identifying information are collected, this should be done in a separate survey, unlinked to the primary one.
+Recruitment by directly or indirectly contacting PSYC 101 classes is prohibited. Recruitment through social media, email, flyers, etc. must be approved by the IRB, including content, medium, and target. All studies must exclude minors (below age 18) unless they have specific approval from the IRB to obtain parental consent. Studies must have and document reasonable procedures in place to ensure that, with minimal error, credit only goes to those who were eligible and validly completed the study. (Partial credit for partial completion can be validly assigned if in accordance with the study's IRB packet.) Studies must use simulated participation or other data-based method of estimating participation duration AND must assess and adjust based on actual completion times after 10-25 real participants. Studies must be set to Inactive by the researcher when not presently collecting data through SONA, including breaks between semesters. If credit is assigned or adjusted manually, this must be done no more than one week after participation. Researchers must notify the SONA director of instances of participant misconduct and any appeals participants make. Online studies must link participation to a code number, not respondents' real names, unless they have IRB permission to link data and real names. If emails or other identifying information are collected, this should be done in a separate survey, unlinked to the primary one.
 
 **Regulations for Undergraduate Researchers**
 
@@ -26,10 +18,7 @@ If an undergraduate study makes an error, any credits distributed as a result st
 
 If an undergraduate researcher wants to exceed the credit cap, they must apply for a waiver. To do so, they must submit their request to the department chair and the SONA director. Waivers will be judged based on the following criteria:
 
-A completed power analysis justifying the need
-Appropriate efforts to get the most power out of participants (i.e., recruitment plan, time estimate, reliable measures, modest number of conditions, etc.)
-A well-defined data analysis plan with a modest number of tests
-Specific, realistic plan to disseminate beyond RIT
+A completed power analysis justifying the need Appropriate efforts to get the most power out of participants (i.e., recruitment plan, time estimate, reliable measures, modest number of conditions, etc.) A well-defined data analysis plan with a modest number of tests Specific, realistic plan to disseminate beyond RIT
 
 **Recommendations for Researchers**
 
