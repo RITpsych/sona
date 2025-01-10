@@ -12,7 +12,7 @@ For courses that will be requiring students to participate in research studies t
 
 To help students learn more about research in psychology, all PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. All of our research is conducted through an online platform called **Sona**, so research participation credits are called Sona credits.
 
-Sona credits must be completed by [5pm on the last day of classes]{.underline}. If you have fewer than 8 credits by that time, your grade will be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). Each study lists how many credits it offers at a rate of 1 credit per 15 minutes of participation, and a 1 credit bonus for in-person studies.
+Sona credits must be completed by [5pm on the last day of classes (i.e., the day *before* Reading Day)]{.underline}. If you have fewer than 8 credits by that time, your grade will be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). Each study lists how many credits it offers at a rate of 1 credit per 15 minutes of participation, and a 1 credit bonus for in-person studies.
 
 Please visit <https://ritpsych.github.io/sona/> for more information on how to make an account and complete the research participation requirement.
 
@@ -20,14 +20,13 @@ Please visit <https://ritpsych.github.io/sona/> for more information on how to m
 
 # PSYC 101 Instructors
 
-
 All PSYC 101 classes require students to complete 8 credits worth of participation in research or research alternatives. Students who earn 8 credits should receive the expected grade given their other course performance. If a student who earns fewer than 8 credits, that student's grade should be lowered by one "step" (i.e., from B+ to B, from C- to D, from D to F). This requirement is pass/fail. **There is no partial credit for a student who earns 7 or fewer credits, earns credits after the deadline, or has some other excuse for not participating.**
 
 If your students tell you that no studies are available, they are not eligible for any studies or for some other reason cannot participate, tell them to check back later - studies change over the course of the semester. If they try to tell you that there were *never* sufficient studies available, they are mistaken or lying. We have never had a student whose disabilities or other conditions excluded them from every possible study - if you think you might have found the exception, please contact the Sona director.
 
 At the end of the semester, I will send you a report of your students' credits. Your grades should be based on that report. Do not grant additional credits because students said they completed other studies, claim that credit was inappropriately denied, or that a researcher has not yet given them credit they earned. All of those issues are resolved before the report is sent.
 
-All of our research / research alternative participation is managed by the Sona system (<https://rit.sona-systems.com/>). On the [website](https://people.rit.edu/amsgss), under the **Participants** heading, I have posted extensive information about how students can get a Sona account, enroll in studies, and earn credit. There is also an extended FAQ that covers less common questions. Your students should be able to manage most Sona participation without your assistance. If they have questions, tell them to review the guidance available on this site and, if that doesn’t work, to contact the Sona administrator directly (Dr. Dustin Haraden, [dxhgsh\@rit.edu](mailto: dxhgsh@rit.edu)).
+All of our research / research alternative participation is managed by the Sona system (<https://rit.sona-systems.com/>). On the [website](https://people.rit.edu/amsgss), under the **Participants** heading, I have posted extensive information about how students can get a Sona account, enroll in studies, and earn credit. There is also an extended FAQ that covers less common questions. Your students should be able to manage most Sona participation without your assistance. If they have questions, tell them to review the guidance available on this site and, if that doesn’t work, to contact the Sona administrator directly (Dr. Dustin Haraden, [dxhgsh\@rit.edu](mailto:%20dxhgsh@rit.edu)).
 
 Research on Sona is conducted by faculty, graduate students, and undergraduates. Some researchers have studies posted already. Our undergraduate senior project students typically begin posting their projects 2-4 weeks into the semester, so students shouldn’t worry if there are few options initially. Students should be especially encouraged to participate in live studies. Live studies give students more exposure to psychology research methodology and techniques. Students also receive a bonus credit for live studies, above the usual rate.
 
@@ -49,9 +48,8 @@ First, if you do not already have a Sona instructor account, please email the So
 
 Once you have instructor access, email the Sona director the following information:
 
-- The days and times of the class (or "Online")
-- The 3-digit class number (i.e., PSYC 249)
-- The 5-digit unique course code
-
+-   The days and times of the class (or "Online")
+-   The 3-digit class number (i.e., PSYC 249)
+-   The 5-digit unique course code
 
 I will email you a PDF document that you should share with your students.
