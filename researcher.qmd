@@ -18,25 +18,33 @@ If no account exists for your username, use the *Request Account* function to cr
 
 ## **2. Get a SONA researcher account.**
 
-Now that you have an account, sign in and check if you have researcher status. If you do, \*Researcher\* will be an option for you to select as you log in. Alternatively, you’ll know you’re signed in as a researcher because the orange bar at the top will say \*My Studies\*.
+Now that you have an account, sign in and check if you have researcher status. If you do, **Researcher** will be an option for you to select as you log in. Alternatively, you’ll know you’re signed in as a researcher because the orange bar at the top will say **My Studies**.
 
-If you do not have researcher status, first obtain a participant account. Then, email the \[SONA administrator\](mailto:sona\@rit.edu) with your full name and original RIT email to request researcher status be added to your existing account.
+If you do not have researcher status, first get a participant account (Check out that last step). Then, email the [SONA administrator](mailto:sona@rit.edu?subject=New%20Researcher%20Account&body=Hello%2C%0D%0A%0D%0AI%20am%20requesting%20a%20new%20researcher%20account.%20I%20have%20cc'd%20my%20supervisor%20here%20as%20well.%0D%0A%0D%0AMy%20RIT%20Email%3A%0D%0AMy%20Full%20Name%3A%0D%0A%0D%0APlease%20let%20me%20know%20if%20you%20need%20any%20more%20info%20from%20me.%0D%0A%0D%0AThank%20you!%0D%0A%0D%0A) with your full name and original RIT email to request researcher status be added to your existing account.
 
 ## **3. Create your study.**
 
-Once steps 1 and 2 are completed, you should be able to log in as a researcher. Do so, and then click on Add New Study before selecting the appropriate study type.
+Once steps 1 and 2 are completed, you should be able to log in as a researcher! Woo Hoo!!
+
+Once logged in, select *Add New Study*
+
+![](images/clipboard-1235628637.png){fig-align="center" width="528"}
+
+### Study Type
+
+Now you can select the type of study that you will be using.
+
+**Standard Study**
+
+![](images/clipboard-1295866694.png)
+
+This is usually a study that is face-to-face. Each participant will come in to participate in the research study. This is one of the more common types.
 
 |  |  |
-|---------------|---------------|
-|  |  |
+|------------------------------------|------------------------------------|
 | Standard Study | Live (face-to-face) study; each participant comes in once |
-|  |  |
 | Multi-Part Standard Study **(rare)** | Live (face-to-face) study; each participant comes in more than once |
-|  |  |
-| Online Internal Study **(not used)** | Uses SONA as your survey software. Don’t select. |
-|  |  |
 | Online External Study | Links participants to surveys on Qualtrics, etc. |
-|  |  |
 
 Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.
 
@@ -179,7 +187,7 @@ Enter SONA as a researcher, go to My Studies, and click on [Timeslots]{.underlin
 If you’re doing an online study and you’ve set it up to automatically grant credit, completers should receive full credit a few minutes after finishing the study. You won’t need to do anything.
 
 |  |  |  |
-|-----------|-----------|-----------|
+|------------------------|------------------------|------------------------|
 |  |  |  |
 |   | Live study | Online study |
 |  |  |  |
