@@ -17,7 +17,19 @@ Please use this website to navigate through the SONA system as either a student 
 
 # Getting Started
 
--   Sections based on your role
+Here is a quick start to help navigate this section!
+
+**Are you a STUDENT looking on how to PARTICIPATE in studies to get credit for a class?**
+
+-   Look at the [Student Section](/student.html) of the website
+
+**Are you a RESEARCHER (either student or faculty) trying to put your study on SONA?**
+
+-   Check out the [Researcher Section](/researcher.html) of the website
+
+**Maybe you are an INSTRUCTOR of a course trying to figure out SONA?**
+
+-   How about the [Instructor section](/instructor.html) of the website
 
 # Participant Info
 
