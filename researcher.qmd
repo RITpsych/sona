@@ -28,7 +28,7 @@ Once steps 1 and 2 are completed, you should be able to log in as a researcher! 
 
 Once logged in, select *Add New Study*
 
-![](images/clipboard-1235628637.png){fig-align="center" width="528"}
+![](images/clipboard-1235628637.png){style="border: 2px solid grey;" fig-align="center" width="528"}
 
 ### Study Type
 
@@ -36,7 +36,7 @@ Now you can select the type of study that you will be using.
 
 **Standard Study**
 
-![](images/clipboard-1295866694.png)
+![](images/clipboard-1295866694.png){style="border: 2px solid grey;"}
 
 This is usually a study that is face-to-face. Each participant will come in to participate in the research study. This is one of the more common types.
 
