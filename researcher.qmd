@@ -40,13 +40,13 @@ Now you can select the type of study that you will be using.
 
 This is usually a study that is face-to-face. Each participant will come in to participate in the research study. This is one of the more common types.
 
-#### Online External Study
+#### **Online External Study**
 
 ![](images/clipboard-3808049232.png){style="border: 2px solid grey;"}
 
 For this study, participants will be directed to another website (e.g., Qualtrics) to complete their participation. These studies do not tend to have any interaction with the study personnel and typically will "run themselves". This is a very common type of study that is used.
 
-#### Multi-Part Study
+#### **Multi-Part Study**
 
 A multi-part study is used when there are...multiple parts to a study. A participant will need to sign up for all study slots for each of the parts of the study at once. These tend to be less common.
 
@@ -58,19 +58,19 @@ A multi-part study is used when there are...multiple parts to a study. A partici
 
 ## **4. Fill in Basic Study Information**
 
-#### *Study Name*
+#### ***Study Name***
 
 This should be descriptive, but does not have to reveal your exact hypothesis unless the IRB has specifically said otherwise. Your study name on SONA is not necessarily the same as the title of your research proposal or IRB submission.
 
-#### *Brief Abstract*
+#### ***Brief Abstract***
 
 This is what participants will see when browsing through the system. It should state in general terms what participants will be asked to do (e.g., take surveys, complete math problems, etc.) and the broad themes or topics (e.g., surveys about your mood and eating habits). This is NOT the same as the abstract you submitted to the IRB or the abstract you would use in a published paper. In most cases you will not reveal your exact hypotheses unless required by the IRB.
 
-#### *Detailed Description*
+#### ***Detailed Description***
 
 Participants only see this if they have clicked on the study. Many do not actually read it. If you really need people to read it, you are strongly urged to put, “PLEASE READ THE DETAILED DESCRIPTION BEFORE SIGNING UP” in all caps in the Brief Abstract.
 
-#### *Eligibility Requirements*
+#### ***Eligibility Requirements***
 
 Do NOT list age as an eligibility requirement; you should have already used the prescreen to ensure participants are 18+. If you have other eligibility requirements that can be managed using the prescreen, please use the prescreen and do not list them here. If you have eligibility requirements other than those covered by the prescreen, please list them here. Note that all Sona users are RIT students, so you can assume they are enrolled in college and able to read English.
 
@@ -78,11 +78,11 @@ Do NOT list age as an eligibility requirement; you should have already used the 
 Be aware that sometimes participants sign up for studies without reading the eligibility criteria very carefully. You are strongly encouraged to reiterate your criteria with a few items at the start of your survey to ensure that only eligible people participate.
 :::
 
-#### *Duration*
+#### ***Duration***
 
 You are **required** to test-run your study to get the best estimate of duration. Survey questions go much faster than you think, especially because respondents generally don’t spend a lot of time pondering them. **Qualtrics’ estimate of duration is incorrect!** Do not rely on it!
 
-#### *Credits*
+#### ***Credits***
 
 Give a whole number value according to the following table, adding +1 for live studies:
 
@@ -101,21 +101,21 @@ Variable credits should be used ONLY when participants will be completing differ
 
 If you find that average participation is taking considerably longer or shorter than your initial, you should considering changing the credit offering for future participants in the same study, but should give the number of credits promised to the current participants.
 
-#### *Preparation*
+#### ***Preparation***
 
 **(Rare)** This line refers to actions participants must take (or not take) prior to the study and is usually left blank. An examples of a requirement that might go in this space would be, "Must not eat any solid food for 60 minutes prior your scheduled start time."
 
-#### *Researcher*
+#### ***Researcher***
 
 You will be selected automatically. Add your faculty mentor and any other individuals who will be working on the project. These are typically the personnel you have listed in your IRB.
 
-#### *IRB Approval Code*
+#### ***IRB Approval Code***
 
 Our IRB (HSRO) does not provide approval codes per se. Enter the date listed on your IRB decision form (Form C) in MMDDYYYY format if you do not have an approval code.
 
 Next is a line that says "*Approved?"* which is handled by the SONA director.
 
-#### *Active Study*
+#### ***Active Study***
 
 If you want your study to be visible as soon as it’s approved, select yes. If you want your study to start out hidden, select no. Reasons to select no would include wanting to wait until a specific part of the semester to collect data.
 
