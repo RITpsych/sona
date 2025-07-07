@@ -34,19 +34,27 @@ Once logged in, select *Add New Study*
 
 Now you can select the type of study that you will be using.
 
-**Standard Study**
+#### **Standard Study**
 
 ![](images/clipboard-1295866694.png){style="border: 2px solid grey;"}
 
 This is usually a study that is face-to-face. Each participant will come in to participate in the research study. This is one of the more common types.
 
-|  |  |
-|------------------------------------|------------------------------------|
-| Standard Study | Live (face-to-face) study; each participant comes in once |
-| Multi-Part Standard Study **(rare)** | Live (face-to-face) study; each participant comes in more than once |
-| Online External Study | Links participants to surveys on Qualtrics, etc. |
+#### Online External Study
 
-Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.
+![](images/clipboard-3808049232.png){style="border: 2px solid grey;"}
+
+For this study, participants will be directed to another website (e.g., Qualtrics) to complete their participation. These studies do not tend to have any interaction with the study personnel and typically will "run themselves". This is a very common type of study that is used.
+
+#### Multi-Part Study
+
+A multi-part study is used when there are...multiple parts to a study. A participant will need to sign up for all study slots for each of the parts of the study at once. These tend to be less common.
+
+***Alternative:*** An alternative to the multi-part study is to have a second individual study (either Standard or Online External) that participants can sign up for only once they have completed the first part. This can be done by using the [Pre-Requisites] option in "Advanced Settings".
+
+::: callout-important
+**IMPORTANT NOTE: Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.**
+:::
 
 ## **4. Fill in Basic Study Information.**
 
@@ -100,11 +108,13 @@ Next is a line that says Approved? which is handled by the SONA director.
 
 *Active Study* – If you want your study to be visible as soon as it’s approved, select yes. If you want your study to start out hidden, select no. Reasons to select no would include wanting to wait until a specific part of the semester to collect data. **Once you have finished collecting your data, please set your study to inactive by selecting No.** You can change this setting whenever you like, without needing SONA director approval. PSYC 101 students get frustrated when they try to find studies with available time slots. Setting your completed study to inactive clears it from the available study list, making it easier for PSYC 101 students to find active research.
 
-## **5. Adjust the Advanced Settings.**
+## **5. Adjust the Advanced Settings**
 
 Most of these should be left in the default position. If an option is marked **(rare)**, it should be left alone unless your study specifically requires it. That said, virtually every study will use at least some advanced settings. A few apply to many studies and are marked **(common)**.
 
-*Prerequisites* **(rare)** – Use if people must be in a previous study before they can be in yours. Note that this does not automatically link their Study A responses to their Study B responses – you have to do that yourself.
+### *Pre-Requisites* 
+
+**(Rare)** Use if people must be in a previous study before they can be in yours. Note that this does not automatically link their Study A responses to their Study B responses – you have to do that yourself with the use of an ID number or other identifier.
 
 *Disqualifiers* **(rare)** – This disqualifies participants based on other studies they've enrolled in. It's mainly used if people cannot be in two similar studies or two forms of the same study.
 
