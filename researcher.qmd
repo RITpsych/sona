@@ -56,57 +56,74 @@ A multi-part study is used when there are...multiple parts to a study. A partici
 **IMPORTANT NOTE: Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.**
 :::
 
-## **4. Fill in Basic Study Information.**
+## **4. Fill in Basic Study Information**
 
-*Prescreen* - The prescreen allows you to target your study to participants by age (18+ or minors). You MUST use the prescreen for age. You can also optionally use the prescreen for four other variables (hearing status, ability to understand oral English, colorblindness, and visual acuity).
+#### *Study Name*
 
-\*Study Name\* – This should be descriptive, but does not have to reveal your exact hypothesis unless the IRB has specifically said otherwise. Your study name on SONA is not necessarily the same as the title of your research proposal or IRB submission.
+This should be descriptive, but does not have to reveal your exact hypothesis unless the IRB has specifically said otherwise. Your study name on SONA is not necessarily the same as the title of your research proposal or IRB submission.
 
-*Brief Abstract* – This is what participants will see when browsing through the system. It should state in general terms what participants will be asked to do (e.g., take surveys, complete math problems, etc.) and the broad themes or topics (e.g., surveys about your mood and eating habits). This is NOT the same as the abstract you submitted to the IRB or the abstract you would use in a published paper. In most cases you will not reveal your exact hypotheses unless required by the IRB.
+#### *Brief Abstract*
 
-*Detailed Description* – Participants only see this if they have clicked on the study. Many do not actually read it. If you really need people to read it, you are strongly urged to put, “PLEASE READ THE DETAILED DESCRIPTION BEFORE SIGNING UP” in all caps in the Brief Abstract.
+This is what participants will see when browsing through the system. It should state in general terms what participants will be asked to do (e.g., take surveys, complete math problems, etc.) and the broad themes or topics (e.g., surveys about your mood and eating habits). This is NOT the same as the abstract you submitted to the IRB or the abstract you would use in a published paper. In most cases you will not reveal your exact hypotheses unless required by the IRB.
 
-*Eligibility Requirements* – Do NOT list age as an eligibility requirement; you should have already used the prescreen to ensure participants are 18+. If you have other eligibility requirements that can be managed using the prescreen, please use the prescreen and do not list them here. If you have eligibility requirements other than those covered by the prescreen, please list them here. Note that all Sona users are RIT students, so you can assume they are enrolled in college and able to read English.
+#### *Detailed Description*
 
+Participants only see this if they have clicked on the study. Many do not actually read it. If you really need people to read it, you are strongly urged to put, “PLEASE READ THE DETAILED DESCRIPTION BEFORE SIGNING UP” in all caps in the Brief Abstract.
+
+#### *Eligibility Requirements*
+
+Do NOT list age as an eligibility requirement; you should have already used the prescreen to ensure participants are 18+. If you have other eligibility requirements that can be managed using the prescreen, please use the prescreen and do not list them here. If you have eligibility requirements other than those covered by the prescreen, please list them here. Note that all Sona users are RIT students, so you can assume they are enrolled in college and able to read English.
+
+::: callout-tip
 Be aware that sometimes participants sign up for studies without reading the eligibility criteria very carefully. You are strongly encouraged to reiterate your criteria with a few items at the start of your survey to ensure that only eligible people participate.
+:::
 
-*Duration* – You are **required** to test-run your study to get the best estimate of duration. Survey questions go much faster than you think, especially because respondents generally don’t spend a lot of time pondering them. **Qualtrics’ estimate of duration is incorrect!** Do not rely on it!
+#### *Duration*
 
-*Credits* – Give a whole number value according to the following table, adding +1 for live studies:
+You are **required** to test-run your study to get the best estimate of duration. Survey questions go much faster than you think, especially because respondents generally don’t spend a lot of time pondering them. **Qualtrics’ estimate of duration is incorrect!** Do not rely on it!
+
+#### *Credits*
+
+Give a whole number value according to the following table, adding +1 for live studies:
 
 |                   |           |
 |-------------------|-----------|
-|                   |           |
 | 0 – 15 minutes    | 1 credit  |
-|                   |           |
 | 16 – 30 minutes   | 2 credits |
-|                   |           |
 | 31 – 45 minutes   | 3 credits |
-|                   |           |
 | 46 – 60 minutes   | 4 credits |
-|                   |           |
 | 61 – 75 minutes   | 5 credits |
-|                   |           |
 | 76 – 90 minutes   | 6 credits |
-|                   |           |
 | 91 – 105 minutes  | 7 credits |
-|                   |           |
 | 106 – 120 minutes | 8 credits |
-|                   |           |
 
 Variable credits should be used ONLY when participants will be completing different task sets; for example, if all participants will complete a 10 minute screener (1 credit) and some will go on to complete a 30 minute survey (40 minutes total, or 3 credits). The simple fact that some participants will take longer or shorter time to complete the same basic task does NOT mean you should use of variable credits.
 
 If you find that average participation is taking considerably longer or shorter than your initial, you should considering changing the credit offering for future participants in the same study, but should give the number of credits promised to the current participants.
 
-*Preparation* – **(rare)** This line refers to actions participants must take (or not take) prior to the study and is usually left blank. An examples of a requirement that might go in this space would be, "Must not eat any solid food for 60 minutes prior your scheduled start time."
+#### *Preparation*
 
-*Researcher* – You will be selected automatically. Add your faculty mentor and any other collaborators.
+**(Rare)** This line refers to actions participants must take (or not take) prior to the study and is usually left blank. An examples of a requirement that might go in this space would be, "Must not eat any solid food for 60 minutes prior your scheduled start time."
 
-*IRB Approval Code* – Our IRB (HSRO) does not provide approval codes per se. Instead, enter the date listed on your IRB decision form (Form C) in MMDDYYYY format.
+#### *Researcher*
 
-Next is a line that says Approved? which is handled by the SONA director.
+You will be selected automatically. Add your faculty mentor and any other individuals who will be working on the project. These are typically the personnel you have listed in your IRB.
 
-*Active Study* – If you want your study to be visible as soon as it’s approved, select yes. If you want your study to start out hidden, select no. Reasons to select no would include wanting to wait until a specific part of the semester to collect data. **Once you have finished collecting your data, please set your study to inactive by selecting No.** You can change this setting whenever you like, without needing SONA director approval. PSYC 101 students get frustrated when they try to find studies with available time slots. Setting your completed study to inactive clears it from the available study list, making it easier for PSYC 101 students to find active research.
+#### *IRB Approval Code*
+
+Our IRB (HSRO) does not provide approval codes per se. Enter the date listed on your IRB decision form (Form C) in MMDDYYYY format if you do not have an approval code.
+
+Next is a line that says "*Approved?"* which is handled by the SONA director.
+
+#### *Active Study*
+
+If you want your study to be visible as soon as it’s approved, select yes. If you want your study to start out hidden, select no. Reasons to select no would include wanting to wait until a specific part of the semester to collect data.
+
+::: callout-note
+**Once you have finished collecting your data, please set your study to inactive by selecting No.**
+
+You can change this setting whenever you like, without needing SONA director approval. PSYC 101 students get frustrated when they try to find studies with available time slots. Setting your completed study to inactive clears it from the available study list, making it easier for PSYC 101 students to find active research.
+:::
 
 ## **5. Adjust the Advanced Settings**
 
@@ -174,11 +191,17 @@ Once you have made your selections for all of the above, click [**Add This Study
 
 ## **6. Get your study approved by the SONA administrator.**
 
-After clicking Add This Study, You will be brought to a Study Information page. Check that everything is correct. Under Study Status, you will have an option to Send Request for approval of your study. Be sure to hit this button so that your study can be approved by the SONA administrator.
+After clicking Add This Study, You will be brought to a Study Information page. Check that everything is correct.
+
+*Prescreen* -
+
+The prescreen allows you to target your study to participants by age (18+ or minors). You MUST use the prescreen for age. You can also optionally use the prescreen for four other variables (hearing status, ability to understand oral English, colorblindness, and visual acuity).
+
+Under Study Status, you will have an option to Send Request for approval of your study. Be sure to hit this button so that your study can be approved by the SONA administrator.
 
 You must also email the SONA administrator directly with basic information about your study (your name, your study's name), and your plans to comply with our [SONA regulations](https://people.rit.edu/amsgss/SONARegs.html).
 
-You will see an option to set Prescreen Restrictions. If you have not yet set your prescreen restrictions, do so now. Remember, you *must* use the prescreen for age. You *may* use the prescreen for hearing status, ability to understand oral English, colorblindness, or visual acuity.
+Remember, you *must* use the prescreen for age. You *may* use the prescreen for hearing status, ability to understand oral English, colorblindness, or visual acuity.
 
 ## **7. Create timeslots.**
 
