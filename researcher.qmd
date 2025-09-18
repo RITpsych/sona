@@ -50,7 +50,7 @@ For this study, participants will be directed to another website (e.g., Qualtric
 
 A multi-part study is used when there are...multiple parts to a study. A participant will need to sign up for all study slots for each of the parts of the study at once. These tend to be less common.
 
-***Alternative:*** An alternative to the multi-part study is to have a second individual study (either Standard or Online External) that participants can sign up for only once they have completed the first part. This can be done by using the [Pre-Requisites] option in "Advanced Settings".
+***Alternative:*** An alternative to the multi-part study is to have a second individual study (either Standard or Online External) that participants can sign up for only once they have completed the first part. This can be done by using the \[Pre-Requisites\] option in "Advanced Settings".
 
 ::: callout-important
 **IMPORTANT NOTE: Select Credit rather than Paid unless ALL participants will be receiving payment and NONE will be receiving credit.**
@@ -129,7 +129,7 @@ You can change this setting whenever you like, without needing SONA director app
 
 Most of these should be left in the default position. If an option is marked **(rare)**, it should be left alone unless your study specifically requires it. That said, virtually every study will use at least some advanced settings. A few apply to many studies and are marked **(common)**.
 
-### *Pre-Requisites* 
+### *Pre-Requisites*
 
 **(Rare)** Use if people must be in a previous study before they can be in yours. Note that this does not automatically link their Study A responses to their Study B responses – you have to do that yourself with the use of an ID number or other identifier.
 
@@ -199,7 +199,7 @@ The prescreen allows you to target your study to participants by age (18+ or min
 
 Under Study Status, you will have an option to Send Request for approval of your study. Be sure to hit this button so that your study can be approved by the SONA administrator.
 
-You must also email the SONA administrator directly with basic information about your study (your name, your study's name), and your plans to comply with our [SONA regulations](https://people.rit.edu/amsgss/SONARegs.html).
+You must also email the SONA administrator directly with basic information about your study (your name, your study's name), and your plans to comply with our [SONA regulations](/regulations.html).
 
 Remember, you *must* use the prescreen for age. You *may* use the prescreen for hearing status, ability to understand oral English, colorblindness, or visual acuity.
 

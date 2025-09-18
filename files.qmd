@@ -1,0 +1,37 @@
+---
+title: "Useful Files"
+execute:
+  freeze: true
+---
+
+**Here is a collection of documents, files and templates that may be useful to the research/SONA process.**
+
+------------------------------------------------------------------------
+
+### Qualtrics Template
+
+When using Qualtrics, there are a few things that we often see as challenges when setting them up. Use this template to start your project in Qualtrics and it will have some useful things already built in!
+
+Download the .qsf file and upload it into your Qualtrics account to use!
+
+[Walkthrough to import the .qsf file to Qualtrics](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/#ImportingASurvey){target="_blank"}
+
+-   <a href="/files/SONA_Template.qsf" download="SONA_Teamplate.qsf">Download Template (.qsf)</a>
+
+------------------------------------------------------------------------
+
+### IRB Guidelines for Department
+
+The department chair has to review each IRB submission and accompanying Qualtrics project prior to being submitted to the Human Subjects Research Office. The document below helps to provide additional information on what they are typically looking for when examining the proposals
+
+-   <a href="/files/Psychology IRB Review Guidelines.pdf" download="Psychology IRB Review Guidelines.pdf">Download Guidelines (.pdf)</a>
+
+------------------------------------------------------------------------
+
+### Submission to Chair for review
+
+When ready, the faculty member must submit their IRB materials to the chair. Please follow the link below to complete the submission process.
+
+You will be asked to indicate that all steps have been completed and that you have shared the Qualtrics project with them. Your submission materials will be uploaded here as well.
+
+[IRB Submission to Chair](https://rit.az1.qualtrics.com/jfe/form/SV_eQZuCiJDKWcfjpA){target="_blank"}

@@ -18,6 +18,7 @@ website:
       - instructor.qmd
       - researcher.qmd
       - regulations.qmd
+      - files.qmd
       - faq.qmd
       - href: https://rit.sona-systems.com/
         text: Link to SONA
